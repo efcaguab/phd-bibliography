@@ -1,0 +1,3302 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevLett.108.218703 http://epubs.siam.org/doi/10.1137/060674909">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0363-0129"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rahmani</foaf:surname>
+                        <foaf:givenname>Amirreza</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ji</foaf:surname>
+                        <foaf:givenname>Meng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mesbahi</foaf:surname>
+                        <foaf:givenname>Mehran</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Egerstedt</foaf:surname>
+                        <foaf:givenname>Magnus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:subject>10</dc:subject>
+        <dc:subject>1137</dc:subject>
+        <dc:subject>120883050</dc:subject>
+        <dc:subject>15a83</dc:subject>
+        <dc:subject>37m10</dc:subject>
+        <dc:subject>41a29</dc:subject>
+        <dc:subject>49n30</dc:subject>
+        <dc:subject>62j12</dc:subject>
+        <dc:subject>93a30</dc:subject>
+        <dc:subject>93b30</dc:subject>
+        <dc:subject>93b40</dc:subject>
+        <dc:subject>ams subject classifications</dc:subject>
+        <dc:subject>approximate matrix completion</dc:subject>
+        <dc:subject>doi</dc:subject>
+        <dc:subject>low-rank approximation</dc:subject>
+        <dc:subject>missing data</dc:subject>
+        <dc:subject>system identification</dc:subject>
+        <dc:subject>variable projection</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevLett.108.218703 http://epubs.siam.org/doi/10.1137/060674909</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>162–186</bib:pages>
+        <dc:date>January 2009</dc:date>
+        <dc:title>Controllability of Multi-Agent Systems from a Graph-Theoretic Perspective</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0363-0129">
+        <prism:volume>48</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>SIAM Journal on Control and Optimization</dc:title>
+        <dc:identifier>ISSN 0363-0129</dc:identifier>
+        <dc:identifier>DOI 10.1137/060674909</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/3/Rahmani et al. - 2009 - Controllability of Multi-Agent Systems from a Graph-Theoretic Perspective.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00319007"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yan</foaf:surname>
+                        <foaf:givenname>Gang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ren</foaf:surname>
+                        <foaf:givenname>Jie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lai</foaf:surname>
+                        <foaf:givenname>Ying Cheng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lai</foaf:surname>
+                        <foaf:givenname>Choy Heng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenname>Baowen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:subject>117411</dc:subject>
+        <dc:subject>117542</dc:subject>
+        <dc:subject>and engineering</dc:subject>
+        <dc:subject>centre for computational science</dc:subject>
+        <dc:subject>department of physics and</dc:subject>
+        <dc:subject>ek laboratories</dc:subject>
+        <dc:subject>national university of singapore</dc:subject>
+        <dc:subject>singapore</dc:subject>
+        <bib:pages>1–5</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>PMID: 23003312</dc:description>
+        <dcterms:abstract>The outstanding problem of controlling complex networks is relevant to many areas of science and engineering, and has the potential to generate technological breakthroughs as well. We address the physically important issue of the energy required for achieving control by deriving and validating scaling laws for the lower and upper energy bounds. These bounds represent a reasonable estimate of the energy cost associated with control, and provide a step forward from the current research on controllability toward ultimate control of complex networked dynamical systems.</dcterms:abstract>
+        <dc:title>Controlling complex networks: How much energy is needed?</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00319007">
+        <prism:volume>108</prism:volume>
+        <prism:number>21</prism:number>
+        <dc:title>Physical Review Letters</dc:title>
+        <dc:identifier>ISSN 00319007</dc:identifier>
+        <dc:identifier>DOI 10.1103/PhysRevLett.108.218703</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5/Yan et al. - 2012 - Controlling complex networks How much energy is needed.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:19326203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cowan</foaf:surname>
+                        <foaf:givenname>Noah J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chastain</foaf:surname>
+                        <foaf:givenname>Erick J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vilhena</foaf:surname>
+                        <foaf:givenname>Daril A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Freudenberg</foaf:surname>
+                        <foaf:givenname>James S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergstrom</foaf:surname>
+                        <foaf:givenname>Carl T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <dc:date>2012</dc:date>
+        <dc:description>PMID: 22761682</dc:description>
+        <dcterms:abstract>Structural controllability has been proposed as an analytical framework for making predictions regarding the control of complex networks across myriad disciplines in the physical and life sciences (Liu et al., Nature:473(7346):167-173, 2011). Although the integration of control theory and network analysis is important, we argue that the application of the structural controllability framework to most if not all real-world networks leads to the conclusion that a single control input, applied to the power dominating set, is all that is needed for structural controllability. This result is consistent with the well-known fact that controllability and its dual observability are generic properties of systems. We argue that more important than issues of structural controllability are the questions of whether a system is almost uncontrollable, whether it is almost unobservable, and whether it possesses almost pole-zero cancellations.</dcterms:abstract>
+        <dc:title>Nodal dynamics, not degree distributions, determine the structural controllability of complex networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:19326203">
+        <prism:volume>7</prism:volume>
+        <prism:number>6</prism:number>
+        <dc:title>PLoS ONE</dc:title>
+        <dc:identifier>ISSN 19326203</dc:identifier>
+        <dc:identifier>DOI 10.1371/journal.pone.0038398</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/Cowan et al. - 2012 - Nodal dynamics, not degree distributions, determine the structural controllability of complex networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15495469"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Basler</foaf:surname>
+                        <foaf:givenname>Georg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nikoloski</foaf:surname>
+                        <foaf:givenname>Zoran</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larhlimi</foaf:surname>
+                        <foaf:givenname>Abdelhalim</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barab??si</foaf:surname>
+                        <foaf:givenname>Albert L??szl??</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <bib:pages>956–968</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>PMID: 27197218</dc:description>
+        <dcterms:abstract>Understanding the control of large-scale metabolic networks is central to biology and medicine. However, existing approaches either require specifying a cellular objective or can only be used for small networks. We introduce new coupling types describing the relations between reaction activities, and develop an efficient computational framework, which does not require any cellular objective for systematic studies of large-scale metabolism. We identify the driver reactions facilitating control of 23 metabolic networks from all kingdoms of life. We find that unicellular organisms require smaller degree of control than multicellular organisms. Driver reactions are under complex cellular regulation in Escherichia coli, indicating their preeminent role in facilitating cellular control. In human cancer cells driver reactions play pivotal roles in malignancy and represent potential therapeutic targets. The developed framework helps us gain insights into regulatory principles of diseases and facilitates design of engineering strategies at the interface of gene regulation, signaling, and metabolism.</dcterms:abstract>
+        <dc:title>Control of fluxes in metabolic networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15495469">
+        <prism:volume>26</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>Genome Research</dc:title>
+        <dc:identifier>ISSN 15495469</dc:identifier>
+        <dc:identifier>DOI 10.1101/gr.202648.115</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Basler et al. - 2016 - Control of fluxes in metabolic networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_10">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0887-4603"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalman</foaf:surname>
+                        <foaf:givenname>R. E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <bib:pages>152–192</bib:pages>
+        <dc:date>1963</dc:date>
+        <dcterms:abstract>There are two different ways of describing uynamicu systems: (i) bymeans of state variables and (ii) by input/output relations. The first method may be regarded as an axiornatization of Newton's laws of mechanics and is taken to be the basic definition of a system.It is then shown (in the linear case) that the input/output relations determine only one part of a system, that which is completely observable and completely controllable. Using the theory of controllability and observability, methods are given for calculating irreducible realization of a given impulse-response matrix. In particular, an explicit procedure is given to determine the minimal number of state variables necessary to realize a given transfer-function matrix. Difficulties arising from the use of reducible realizations are discussed briefly.</dcterms:abstract>
+        <dc:title>Mathematical Description of Linear Dynamical Systems</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0887-4603">
+        <prism:volume>1</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Journal of the Society for Industrial and Applied Mathematics Series A Control</dc:title>
+        <dc:identifier>ISSN 0887-4603</dc:identifier>
+        <dc:identifier>DOI 10.1137/0301010</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/Kalman - 1963 - Mathematical Description of Linear Dynamical Systems.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_12">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10541500"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Motter</foaf:surname>
+                        <foaf:givenname>Adilson E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <bib:pages>097621</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>Networkcontrology</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10541500">
+        <prism:volume>25</prism:volume>
+        <dc:title>Chaos</dc:title>
+        <dc:identifier>ISSN 10541500</dc:identifier>
+        <dc:identifier>DOI 10.1063/1.4931570</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Motter - 2015 - Networkcontrology.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1607.01879">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041-1723"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stone</foaf:surname>
+                        <foaf:givenname>Lewi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1607.01879</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–7</bib:pages>
+        <dc:date>2016</dc:date>
+        <dcterms:abstract>Mays celebrated theoretical work of the 70s contradicted the established paradigm by demonstrating that complexity leads to instability in biological systems. Here Mays random-matrix modelling approach is generalized to realistic large-scale webs of species interactions, be they structured by networks of competition, mutualism or both. Simple relationships are found to govern these otherwise intractable models, and control the parameter ranges for which biological systems are stable and feasible. Our analysis of model and real empirical networks is only achievable upon introducing a simplifying Google-matrix reduction scheme, which in the process, yields a practical ecological eigenvalue stability index. These results provide an understanding on how network topology, especially connectance, influences species stable coexistence. Constraints controlling feasibility (positive equilibrium populations) in these systems, are found more restrictive than those controlling stability, helping explain the enigma of why many classes of feasible ecological models are nearly always stable.</dcterms:abstract>
+        <dc:title>Determinants of Structural Stability in Complex Ecological and Biological Networks: the Google Matrix Approach Determinants of stability in biological and ecological networks: the Google matrix approach</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041-1723">
+        <prism:volume>7</prism:volume>
+        <dc:title>Nature Communications</dc:title>
+        <dc:identifier>ISSN 2041-1723</dc:identifier>
+        <dc:identifier>DOI 10.1038/ncomms12857</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/Stone - 2016 - Determinants of Structural Stability in Complex Ecological and Biological Networks the Google Matrix Approach Determinant.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1411.2696%5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/27063294">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2045-2322"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nie</foaf:surname>
+                        <foaf:givenname>Sen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Xu-Wen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Binghong</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenname>Luo-Luo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://arxiv.org/abs/1411.2696%5Cnhttp://www.ncbi.nlm.nih.gov/pubmed/27063294</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>23952</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>PMID: 27063294</dc:description>
+        <dcterms:abstract>The network control problem has recently attracted an increasing amount of attention, owing to concerns including the avoidance of cascading failures of power-grids and the management of ecological networks. It has been proven that numerical control can be achieved if the number of control inputs exceeds a certain transition point. In the present study, we investigate the effect of degree correlation on the numerical controllability in networks whose topological structures are reconstructed from both real and modeling systems, and we find that the transition point of the number of control inputs depends strongly on the degree correlation in both undirected and directed networks with moderately sparse links. More interestingly, the effect of the degree correlation on the transition point cannot be observed in dense networks for numerical controllability, which contrasts with the corresponding result for structural controllability. In particular, for directed random networks and scale-free networks, the influence of the degree correlation is determined by the types of correlations. Our approach provides an understanding of control problems in complex sparse networks.</dcterms:abstract>
+        <dc:title>Effect of correlations on controllability transition in network control.</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2045-2322">
+        <prism:volume>6</prism:volume>
+        <prism:number>February 2015</prism:number>
+        <dc:title>Scientific reports</dc:title>
+        <dc:identifier>ISSN 2045-2322</dc:identifier>
+        <dc:identifier>DOI 10.1038/srep23952</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/Nie et al. - 2016 - Effect of correlations on controllability transition in network control.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_18">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>6</prism:volume><prism:number>3</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferrarini</foaf:surname>
+                        <foaf:givenname>Alessandro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>75–83</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:title>Multi-purpose control of ecological and biological networks</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://linkinghub.elsevier.com/retrieve/pii/S136013851600008X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13601385"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poelman</foaf:surname>
+                        <foaf:givenname>Erik H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kessler</foaf:surname>
+                        <foaf:givenname>André</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://linkinghub.elsevier.com/retrieve/pii/S136013851600008X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–9</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:title>Keystone Herbivores and the Evolution of Plant Defenses</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13601385">
+        <prism:volume>xx</prism:volume>
+        <dc:title>Trends in Plant Science</dc:title>
+        <dc:identifier>ISSN 13601385</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.tplants.2016.01.007</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Poelman, Kessler - 2016 - Keystone Herbivores and the Evolution of Plant Defenses.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/btp.12290">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00063606"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palacio</foaf:surname>
+                        <foaf:givenname>Rubén Darío</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valderrama-Ardila</foaf:surname>
+                        <foaf:givenname>Carlos</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kattan</foaf:surname>
+                        <foaf:givenname>Gustavo H</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:subject>andean forests</dc:subject>
+        <dc:subject>community ecology</dc:subject>
+        <dc:subject>seed dispersal</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1111/btp.12290</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>349–355</bib:pages>
+        <dc:date>May 2016</dc:date>
+        <dc:title>Generalist Species Have a Central Role In a Highly Diverse Plant-Frugivore Network</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00063606">
+        <prism:volume>48</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Biotropica</dc:title>
+        <dc:identifier>ISSN 00063606</dc:identifier>
+        <dc:identifier>DOI 10.1111/btp.12290</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/Palacio, Valderrama-Ardila, Kattan - 2016 - Generalist Species Have a Central Role In a Highly Diverse Plant-Frugivore Network.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.plos.org/10.1371/journal.pcbi.1004727">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1553-7358"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haerter</foaf:surname>
+                        <foaf:givenname>Jan O.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitarai</foaf:surname>
+                        <foaf:givenname>Namiko</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sneppen</foaf:surname>
+                        <foaf:givenname>Kim</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_25"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.plos.org/10.1371/journal.pcbi.1004727</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e1004727</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:title>Food Web Assembly Rules for Generalized Lotka-Volterra Equations</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1553-7358">
+        <prism:volume>12</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>PLOS Computational Biology</dc:title>
+        <dc:identifier>ISSN 1553-7358</dc:identifier>
+        <dc:identifier>DOI 10.1371/journal.pcbi.1004727</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/Haerter, Mitarai, Sneppen - 2016 - Food Web Assembly Rules for Generalized Lotka-Volterra Equations.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_26">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>3</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Journal of Complex Networks</dc:title>
+                <dc:identifier>DOI 10.1093/comnet/cnu051</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benavides</foaf:surname>
+                        <foaf:givenname>Pahola T</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Diwekar</foaf:surname>
+                        <foaf:givenname>Urmila</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cabezas</foaf:surname>
+                        <foaf:givenname>Heriberto</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>566–583</bib:pages>
+        <dc:date>2015</dc:date>
+        <dcterms:abstract>Successful implementation of sustainability ideas in ecosystem management requires a basic understanding of the often non-linear and non-intuitive relationships among different dimensions of sustainability, particularly the system-wide implications of human actions. This basic understanding further includes a sense of the time scale of possible future events and the limits of what is and is not likely to be possible. With this understanding, systematic approaches based on control theory can then be used to develop policy guidelines for the system. Therefore, controllability of the system is very important to determining long term sustainability of the system. An article Liu et al. (2011, Nature, 473, 167) presents a new analytical approach to study the controllability of complex systems. We apply this approach to three dynamic systems developed to study the sustainability of our planet. These three systems consist of an ecosystem based on wild and domesticated compartments: a simple economic model, an ecosystem model with an industrial system, and an integrated model involving the ecosystem, industrial systems, and energy producers. The goal is not to develop detailed predictions, but to explore the feasibility of general strategies for sustainability, and to establish scientific criteria which would indicate their likelihood of being successful. We argue that controllability of this system is necessary for its long-term sustainability, and we present our arguments in the light of previous studies of these systems.</dcterms:abstract>
+        <dc:title>Controllability of complex networks for sustainable system dynamics</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://www.nature.com/doifinder/10.1038/nature14604">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0028-0836"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morone</foaf:surname>
+                        <foaf:givenname>Flaviano</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Makse</foaf:surname>
+                        <foaf:givenname>Hernán A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_28"/>
+        <link:link rdf:resource="#item_29"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/doifinder/10.1038/nature14604</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>65–68</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>Influence maximization in complex networks through optimal percolation</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0028-0836">
+        <prism:volume>524</prism:volume>
+        <prism:number>7563</prism:number>
+        <dc:title>Nature</dc:title>
+        <dc:identifier>ISSN 0028-0836</dc:identifier>
+        <dc:identifier>DOI 10.1038/nature14604</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/Morone, Makse - 2015 - Influence maximization in complex networks through optimal percolation.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_29">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/29/Morone, Makse - 2015 - Influence maximization in complex networks through optimal percolation(2).pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/doifinder/10.1038/ncomms1163">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dc:identifier>DOI 10.1038/ncomms1163</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sahasrabudhe</foaf:surname>
+                        <foaf:givenname>Sagar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Motter</foaf:surname>
+                        <foaf:givenname>Adilson E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_31"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/doifinder/10.1038/ncomms1163</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>170</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>Rescuing ecosystems from extinction cascades through compensatory perturbations</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/Sahasrabudhe, Motter - 2011 - Rescuing ecosystems from extinction cascades through compensatory perturbations.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3574950&amp;tool=pmcentrez&amp;rendertype=abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slotine</foaf:surname>
+                        <foaf:givenname>Jean-Jacques</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Biochemical Processes</dc:subject>
+        <dc:subject>Biochemical Processes: physiology</dc:subject>
+        <dc:subject>Biological</dc:subject>
+        <dc:subject>Models</dc:subject>
+        <dc:subject>Systems Analysis</dc:subject>
+        <dc:subject>Systems Biology</dc:subject>
+        <dc:subject>Systems Biology: methods</dc:subject>
+        <dc:subject>Systems Theory</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3574950&amp;tool=pmcentrez&amp;rendertype=abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>2460–5</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>PMID: 23359701</dc:description>
+        <dcterms:abstract>A quantitative description of a complex system is inherently limited by our ability to estimate the system's internal state from experimentally accessible outputs. Although the simultaneous measurement of all internal variables, like all metabolite concentrations in a cell, offers a complete description of a system's state, in practice experimental access is limited to only a subset of variables, or sensors. A system is called observable if we can reconstruct the system's complete internal state from its outputs. Here, we adopt a graphical approach derived from the dynamical laws that govern a system to determine the sensors that are necessary to reconstruct the full internal state of a complex system. We apply this approach to biochemical reaction systems, finding that the identified sensors are not only necessary but also sufficient for observability. The developed approach can also identify the optimal sensors for target or partial observability, helping us reconstruct selected state variables from appropriately chosen outputs, a prerequisite for optimal biomarker design. Given the fundamental role observability plays in complex systems, these results offer avenues to systematically explore the dynamics of a wide range of natural, technological and socioeconomic systems.</dcterms:abstract>
+        <dc:title>Observability of complex systems.</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1091-6490">
+        <prism:volume>110</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>Proceedings of the National Academy of Sciences of the United States of America</dc:title>
+        <dc:identifier>ISSN 1091-6490</dc:identifier>
+        <dc:identifier>DOI 10.1073/pnas.1215508110</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_33">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Angulo</foaf:surname>
+                        <foaf:givenname>Marco Tulio</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slotine</foaf:surname>
+                        <foaf:givenname>Jean-jacques</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34"/>
+        <bib:pages>3–8</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Network motifs emerge from interconnections that favor stability</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/Angulo, Liu, Slotine - 2014 - Network motifs emerge from interconnections that favor stability.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/doifinder/10.1038/srep08422">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Scientific Reports</dc:title>
+                <dc:identifier>ISSN 2045-2322</dc:identifier>
+                <dc:identifier>DOI 10.1038/srep08422</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenname>Chen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Wen-Xu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slotine</foaf:surname>
+                        <foaf:givenname>Jean-Jacques</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_111"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nature.com/doifinder/10.1038/srep08422</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>8422</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>Intrinsic dynamics induce global symmetry in network controllability</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/Zhao et al. - 2015 - Intrinsic dynamics induce global symmetry in network controllability.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_111">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/111/srep08422-s1.pdf"/>
+        <dc:title>srep08422-s1.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_37">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <prism:number>5415</prism:number>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dc:identifier>DOI 10.1038/ncomms6415</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenname>Jianxi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>D'Souza</foaf:surname>
+                        <foaf:givenname>Raissa M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_38"/>
+        <dc:date>2014</dc:date>
+        <dc:title>Target control of complex networks</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/38/Gao et al. - 2014 - Target control of complex networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_39">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gibson</foaf:surname>
+                        <foaf:givenname>Travis E</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bashan</foaf:surname>
+                        <foaf:givenname>Amir</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenname>Hong-tai</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weiss</foaf:surname>
+                        <foaf:givenname>Scott T</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_40"/>
+        <bib:pages>1–84</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>On the Origins and Control of Community Types in the Human Microbiome</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/Gibson et al. - 2015 - On the Origins and Control of Community Types in the Human Microbiome.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_41">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><prism:volume>14186</prism:volume></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bast</foaf:surname>
+                        <foaf:givenname>Holger</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mehlhorn</foaf:surname>
+                        <foaf:givenname>Kurt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sch</foaf:surname>
+                        <foaf:givenname>Guido</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_42"/>
+        <bib:pages>1–11</bib:pages>
+        <dc:date>1999</dc:date>
+        <dc:title>Matching Algorithms are Fast in Sparse Random Graphs</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/42/Bast, Mehlhorn, Sch - 1999 - Matching Algorithms are Fast in Sparse Random Graphs.ps"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/postscript</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/cond-mat/0603350">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1742-5468"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zdeborová</foaf:surname>
+                        <foaf:givenname>Lenka</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mézard</foaf:surname>
+                        <foaf:givenname>Marc</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/cond-mat/0603350</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>17</bib:pages>
+        <dc:date>2006</dc:date>
+        <dcterms:abstract>We study matchings on sparse random graphs by means of the cavity method. We first show how the method reproduces several known results about maximum and perfect matchings in regular and Erdos-Renyi random graphs. Our main new result is the computation of the entropy, i.e. the leading order of the logarithm of the number of solutions, of matchings with a given size. We derive both an algorithm to compute this entropy for an arbitrary graph with a girth that diverges in the large size limit, and an analytic result for the entropy in regular and Erdos-Renyi random graph ensembles.</dcterms:abstract>
+        <dc:title>The number of matchings in random graphs</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1742-5468">
+        <dc:identifier>ISSN 1742-5468</dc:identifier>
+        <dc:identifier>DOI 10.1088/1742-5468/2006/05/P05003</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="urn:isbn:978-3-540-63890-2">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:identifier>C</dc:identifier></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>1350</prism:volume>
+                <dc:identifier>ISBN 978-3-540-63890-2</dc:identifier>
+                <dc:title>Algorithms and Computation</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uno</foaf:surname>
+                        <foaf:givenname>Takeaki</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_45"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.springerlink.com/content/7328p0x9v216l357/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>92–101</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:description>DOI: 10.1007/3-540-63890-3_11</dc:description>
+        <dcterms:abstract>For a bipartite graph G = (V, E), (1) perfect, (2) maximum and (3) maximal matchings are matchings (1) such that all vertices are incident to some matching edges, (2) whose cardinalities axe maximum among all matchings, (3) which axe contained in no other matching. In this paper, we present three algorithms for enumerating these three types of matchings. Their time complexities axe O(IVI) per a matching.</dcterms:abstract>
+        <dc:title>Algorithms for enumerating all perfect, maximum and maximal matchings in bipartite graphs</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/45/Uno - 1997 - Algorithms for enumerating all perfect, maximum and maximal matchings in bipartite graphs.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-642-16543-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-3-642-16543-6</dc:identifier>
+                <dc:title>Bioinspired Computation in Combinatorial Optimization</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neumann</foaf:surname>
+                        <foaf:givenname>Frank</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Witt</foaf:surname>
+                        <foaf:givenname>Carsten</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_47"/>
+        <dc:subject>Bioinspired Computation in Combinatorial Optimizat</dc:subject>
+        <bib:pages>51–74</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:description>DOI: 10.1007/978-3-642-16544-3</dc:description>
+        <dcterms:abstract>In this chapter, we study the behavior of stochastic search algorithms on an important graph problem. We consider the well-known problem of computing a minimum spanning tree in a given undirected connected graph with n vertices and m edges. The problem has many applications in the area of network design. Assume that we have n computers that should be connected with minimum cost, where costs of a certain amount occur when one computer is connected to another one. The cost for a connection can, for example, be the distance between two considered computers. One needs to make n−1 connections between these computers such that all computers are able to communicate with each other. Considering a graph as a model for a possible computer network, it has n vertices and one searches for the set of edges with minimal cost that makes the graph connected.</dcterms:abstract>
+        <dc:title>Maximum matchings</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/47/Neumann, Witt - 2010 - Maximum matchings.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1506.00029 http://dx.doi.org/10.1371/journal.pone.0129804">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.1371/journal.pone.0129804</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenname>Tao</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spivey</foaf:surname>
+                        <foaf:givenname>Robert F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szymanski</foaf:surname>
+                        <foaf:givenname>Boleslaw</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Korniss</foaf:surname>
+                        <foaf:givenname>Gyorgy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_49"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://arxiv.org/abs/1506.00029 http://dx.doi.org/10.1371/journal.pone.0129804</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1–12</bib:pages>
+        <dc:date>2015</dc:date>
+        <dcterms:abstract>The matching hypothesis in social psychology claims that people are more likely to form a committed relationship with someone equally attractive. Previous works on stochastic models of human mate choice process indicate that patterns supporting the matching hypothesis could occur even when similarity is not the primary consideration in seeking partners. Yet, most if not all of these works concentrate on fully-connected systems. Here we extend the analysis to networks. Our results indicate that the correlation of the couple's attractiveness grows monotonically with the increased average degree and decreased degree diversity of the network. This correlation is lower in sparse networks than in fully-connected systems, because in the former less attractive individuals who find partners are likely to be coupled with ones who are more attractive than them. The chance of failing to be matched decreases exponentially with both the attractiveness and the degree. The matching hypothesis may not hold when the degree-attractiveness correlation is present, which can give rise to negative attractiveness correlation. Finally, we find that the ratio between the number of matched couples and the size of the maximum matching varies non-monotonically with the average degree of the network. Our results reveal the role of network topology in the process of human mate choice and bring insights into future investigations of different matching processes in networks.</dcterms:abstract>
+        <dc:title>An Analysis of the Matching Hypothesis in Networks</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/49/Jia et al. - 2015 - An Analysis of the Matching Hypothesis in Networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_50">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>473</prism:volume>
+                <prism:number>7346</prism:number>
+                <dc:title>Nature</dc:title>
+                <dc:identifier>ISSN 0028-0836</dc:identifier>
+                <dc:identifier>DOI 10.1038/nature10011</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slotine</foaf:surname>
+                        <foaf:givenname>Jean-Jacques</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_97"/>
+        <bib:pages>167–173</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>PMID: 21562557</dc:description>
+        <dcterms:abstract>The ultimate proof of our understanding of natural or technological systems is reflected in our ability to control them. Although control theory offers mathematical tools for steering engineered and natural systems towards a desired state, a framework to control complex self-organized systems is lacking. Here we develop analytical tools to study the controllability of an arbitrary complex directed network, identifying the set of driver nodes with time-dependent control that can guide the system's entire dynamics. We apply these tools to several real networks, finding that the number of driver nodes is determined mainly by the network's degree distribution. We show that sparse inhomogeneous networks, which emerge in many real complex systems, are the most difficult to control, but that dense and homogeneous networks can be controlled using a few driver nodes. Counterintuitively, we find that in both model and real systems the driver nodes tend to avoid the high-degree nodes.</dcterms:abstract>
+        <dc:title>Controllability of complex networks.</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_97">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/97/Liu et al. - 2011 - Controllability of complex networks..pdf"/>
+        <dc:title>Liu et al. - 2011 - Controllability of complex networks..pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_52">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:14391791"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Isbell</foaf:surname>
+                        <foaf:givenname>Forest</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loreau</foaf:surname>
+                        <foaf:givenname>Michel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_53"/>
+        <dc:subject>Conservation</dc:subject>
+        <dc:subject>Control theory</dc:subject>
+        <dc:subject>Fishing</dc:subject>
+        <dc:subject>Food web</dc:subject>
+        <dc:subject>Marine</dc:subject>
+        <dc:subject>Network theory</dc:subject>
+        <bib:pages>623–629</bib:pages>
+        <dc:date>2013</dc:date>
+        <dcterms:abstract>Humans have indirectly influenced species at lower trophic levels by driving losses of apex consumers. Furthermore, humans have indirectly influenced species at higher trophic levels by driving losses of primary producers. Beyond these broad classes of apex consumers and primary producers, it remains challenging to identify minimum subsets of species that are particularly important for maintaining ecosystem structure and functioning. Here we use a novel method at the intersection of control theory and network theory to identify a minimum set of driver node species upon which ecosystem structure strongly depends. Specifically, humans could unintentionally completely restructure ecosystems (i.e., change species abundances from any initial values to any final values, including zero) by altering the abundances of these few critical driver node species. We then quantify the proportion of these driver nodes that are influenced by humans, top predators, and primary producers in several marine food webs. We find that humans could unintentionally completely restructure marine food webs while only directly influencing less than one in four species. Additionally, humans directly influence: (1) most or all of the species necessary to completely restructure each network, (2) more driver nodes than top predators, and at least as many driver nodes as primary producers, and (3) an increasing proportion of driver nodes over time in the Adriatic Sea. We conclude that humans have potentially huge impacts on marine ecosystems while directly influencing only the relatively small subset of species that are currently fished. It may be possible to reduce unintentional and undesirable cascading human influences by decreasing human impacts on driver node species in these and other food webs. ?? 2013 Gesellschaft f??r ??kologie.</dcterms:abstract>
+        <dc:title>Human impacts on minimum subsets of species critical for maintaining ecosystem structure</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:14391791">
+        <prism:volume>14</prism:volume>
+        <prism:number>8</prism:number>
+        <dc:title>Basic and Applied Ecology</dc:title>
+        <dc:identifier>ISSN 14391791</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.baae.2013.09.001</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/53/Isbell, Loreau - 2013 - Human impacts on minimum subsets of species critical for maintaining ecosystem structure.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.ncbi.nlm.nih.gov/pubmed/24653036">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1095-9203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruths</foaf:surname>
+                        <foaf:givenname>Justin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ruths</foaf:surname>
+                        <foaf:givenname>Derek</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <link:link rdf:resource="#item_56"/>
+        <dc:subject>Models</dc:subject>
+        <dc:subject>Systems Analysis</dc:subject>
+        <dc:subject>Systems Theory</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <dc:subject>Brain</dc:subject>
+        <dc:subject>Brain: physiology</dc:subject>
+        <dc:subject>Computer Simulation</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>Linear Models</dc:subject>
+        <dc:subject>Nerve Net</dc:subject>
+        <dc:subject>Social Support</dc:subject>
+        <dc:subject>Theoretical</dc:subject>
+        <dc:subject>Transportation</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/24653036</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1373–6</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:description>PMID: 24653036</dc:description>
+        <dcterms:abstract>Studying the control properties of complex networks provides insight into how designers and engineers can influence these systems to achieve a desired behavior. Topology of a network has been shown to strongly correlate with certain control properties; here we uncover the fundamental structures that explain the basis of this correlation. We develop the control profile, a statistic that quantifies the different proportions of control-inducing structures present in a network. We find that standard random network models do not reproduce the kinds of control profiles that are observed in real-world networks. The profiles of real networks form three well-defined clusters that provide insight into the high-level organization and function of complex systems.</dcterms:abstract>
+        <dc:title>Control profiles of complex networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1095-9203">
+        <prism:volume>343</prism:volume>
+        <prism:number>6177</prism:number>
+        <dc:title>Science</dc:title>
+        <dc:identifier>ISSN 1095-9203</dc:identifier>
+        <dc:identifier>DOI 10.1126/science.1242063</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/55/Ruths, Ruths - 2014 - Control profiles of complex networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/56/Ruths, Ruths - 2014 - Control profiles of complex networks(2).pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencemag.org/cgi/doi/10.1126/science.1251746%5Cnhttp://www.sciencemag.org/content/343/6177/1325">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0036-8075"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onnela</foaf:surname>
+                        <foaf:givenname>Jukka-Pekka</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_58"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencemag.org/cgi/doi/10.1126/science.1251746%5Cnhttp://www.sciencemag.org/content/343/6177/1325</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1325–1326</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:description>PMID: 24653028</dc:description>
+        <dcterms:abstract>Many complex systems can be viewed as networks, in which nodes represent system elements and edges correspond to interactions between those elements. In such networks, a subset of nodes—the driver nodes—can yield control of the entire network when they are driven by external signals (1–3). However, to control a system, one must know not only what parts need to be controlled but also why these particular parts need to be controlled. On page 1373 of this issue, Ruths and Ruths (4) put forward an elegant framework that elucidates the origin of control in networks. The framework divides nodes into three categories based on how they affect the flow of control in networks. This approach gives rise to control profiles that the authors use to classify a host of empirical and synthetic networks. The results suggest that networks from different domains but in the same category may be more similar to one another than previously thought.</dcterms:abstract>
+        <dc:title>Flow of control in networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0036-8075">
+        <prism:volume>343</prism:volume>
+        <prism:number>6177</prism:number>
+        <dc:title>Science</dc:title>
+        <dc:identifier>ISSN 0036-8075</dc:identifier>
+        <dc:identifier>DOI 10.1126/science.1251746</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/58/Onnela - 2014 - Flow of control in networks.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_62">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dc:identifier>DOI 10.1038/ncomms2939</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cornelius</foaf:surname>
+                        <foaf:givenname>Sean P</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kath</foaf:surname>
+                        <foaf:givenname>William L</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Motter</foaf:surname>
+                        <foaf:givenname>Adilson E</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <link:link rdf:resource="#item_64"/>
+        <dc:subject>Biological</dc:subject>
+        <dc:subject>Models</dc:subject>
+        <dc:subject>Humans</dc:subject>
+        <dc:subject>Cell Survival</dc:subject>
+        <dc:subject>Large Granular Lymphocytic</dc:subject>
+        <dc:subject>Large Granular Lymphocytic: pathology</dc:subject>
+        <dc:subject>Leukemia</dc:subject>
+        <dc:subject>Power Plants</dc:subject>
+        <dc:subject>Signal Transduction</dc:subject>
+        <dc:subject>T-Lymphocytes</dc:subject>
+        <dc:subject>T-Lymphocytes: metabolism</dc:subject>
+        <dc:subject>T-Lymphocytes: pathology</dc:subject>
+        <bib:pages>1942</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>PMID: 23803966</dc:description>
+        <dcterms:abstract>The control of complex networks is of paramount importance in areas as diverse as ecosystem management, emergency response and cell reprogramming. A fundamental property of networks is that perturbations to one node can affect other nodes, potentially causing the entire system to change behaviour or fail. Here we show that it is possible to exploit the same principle to control network behaviour. Our approach accounts for the nonlinear dynamics inherent to real systems, and allows bringing the system to a desired target state even when this state is not directly accessible due to constraints that limit the allowed interventions. Applications show that this framework permits reprogramming a network to a desired task, as well as rescuing networks from the brink of failure-which we illustrate through the mitigation of cascading failures in a power-grid network and the identification of potential drug targets in a signalling network of human cancer.</dcterms:abstract>
+        <dc:title>Realistic control of network dynamics</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/Cornelius, Kath, Motter - 2013 - Realistic control of network dynamics.pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/64/Cornelius, Kath, Motter - 2013 - Realistic control of network dynamics(2).pdf"/>
+        <dc:title>Attachment</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_65">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2043-0116"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cornelius</foaf:surname>
+                        <foaf:givenname>Sean P</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Motter</foaf:surname>
+                        <foaf:givenname>Adilson E</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>cascades</dc:subject>
+        <dc:subject>disordered systems</dc:subject>
+        <dc:subject>network control</dc:subject>
+        <dc:subject>nonlinear dynamics</dc:subject>
+        <dc:subject>transient stability</dc:subject>
+        <bib:pages>1–6</bib:pages>
+        <dc:date>June 2013</dc:date>
+        <dcterms:abstract>We present an algorithm for the control of complex networks and other nonlinear, high-dimensional dynamical systems. The computational approach is based on the recently-introduced concept of compensatory perturbations—intentional alterations to the state of a complex system that can drive it to a desired target state even when there are constraints on the perturbations that forbid reaching the target state directly. Included here is ready-to-use software that can be applied to identify eligible control interventions in a general system described by coupled ordinary differential equations, whose specific form can be specified by the user. The algorithm is highly scalable, with the computational cost scaling as the number of dynamical variables to the power 2.5.</dcterms:abstract>
+        <dc:title>NECO - A scalable algorithm for NEtwork COntrol</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2043-0116">
+        <dc:title>Protocol Exchange</dc:title>
+        <dc:identifier>ISSN 2043-0116</dc:identifier>
+        <dc:identifier>DOI 10.1038/protex.2013.063</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://rstb.royalsocietypublishing.org/cgi/doi/10.1098/rstb.2008.0226">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0962-8436,%201471-2970"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stouffer</foaf:surname>
+                        <foaf:givenname>D. B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_66"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rstb.royalsocietypublishing.org/cgi/doi/10.1098/rstb.2008.0226</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1781-1787</bib:pages>
+        <dc:date>2009-06-27</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 07:38:55</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The assembly and disassembly of ecological networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0962-8436,%201471-2970">
+        <prism:volume>364</prism:volume>
+        <prism:number>1524</prism:number>
+        <dc:title>Philosophical Transactions of the Royal Society B: Biological Sciences</dc:title>
+        <dc:identifier>ISSN 0962-8436, 1471-2970</dc:identifier>
+        <dc:identifier>DOI 10.1098/rstb.2008.0226</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/66/Bascompte and Stouffer - 2009 - The assembly and disassembly of ecological network.pdf"/>
+        <dc:title>Bascompte and Stouffer - 2009 - The assembly and disassembly of ecological network.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencemag.org/cgi/doi/10.1126/science.1216556">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0036-8075,%201095-9203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stouffer</foaf:surname>
+                        <foaf:givenname>D. B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sales-Pardo</foaf:surname>
+                        <foaf:givenname>M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sirer</foaf:surname>
+                        <foaf:givenname>M. I.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_69"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencemag.org/cgi/doi/10.1126/science.1216556</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1489-1492</bib:pages>
+        <dc:date>2012-03-23</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 07:48:45</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Evolutionary Conservation of Species' Roles in Food Webs</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0036-8075,%201095-9203">
+        <prism:volume>335</prism:volume>
+        <prism:number>6075</prism:number>
+        <dc:title>Science</dc:title>
+        <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+        <dc:identifier>DOI 10.1126/science.1216556</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/69/Stouffer et al. - 2012 - Evolutionary Conservation of Species' Roles in Foo.pdf"/>
+        <dc:title>Stouffer et al. - 2012 - Evolutionary Conservation of Species' Roles in Foo.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://linkinghub.elsevier.com/retrieve/pii/S096098220602673X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09609822"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blüthgen</foaf:surname>
+                        <foaf:givenname>Nico</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menzel</foaf:surname>
+                        <foaf:givenname>Florian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hovestadt</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fiala</foaf:surname>
+                        <foaf:givenname>Brigitte</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blüthgen</foaf:surname>
+                        <foaf:givenname>Nils</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_71"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://linkinghub.elsevier.com/retrieve/pii/S096098220602673X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>341-346</bib:pages>
+        <dc:date>02/2007</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 07:57:29</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The topology of ecological interaction webs holds important information for theories of coevolution, biodiversity, and ecosystem stability [1–6]. However, most previous network analyses solely counted the number of links and ignored variation in link strength. Because of this crude resolution, results vary with scale and sampling intensity, thus hampering a comparison of network patterns at different levels [7–9]. We applied a recently developed [10] quantitative and scale-independent analysis based on information theory to 51 mutualistic plant-animal networks, with interaction frequency as measure of link strength. Most networks were highly structured, deviating signiﬁcantly from random associations. The degree of specialization was independent of network size. Pollination webs were signiﬁcantly more specialized than seeddispersal webs, and obligate symbiotic ant-plant mutualisms were more specialized than nectar-mediated facultative ones. Across networks, the average specialization of animal and plants was correlated, but is constrained by the ratio of plant to animal species involved. In pollination webs, rarely visited plants were on average more specialized than frequently attended ones, whereas specialization of pollinators was positively correlated with their interaction frequency. We conclude that quantitative specialization in ecological communities mirrors evolutionary trade-offs and constraints of web architecture. This approach can be easily expanded to other types of biological interactions.</dcterms:abstract>
+        <dc:title>Specialization, Constraints, and Conflicting Interests in Mutualistic Networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09609822">
+        <prism:volume>17</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Current Biology</dc:title>
+        <dc:identifier>ISSN 09609822</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.cub.2006.12.039</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/Blüthgen et al. - 2007 - Specialization, Constraints, and Conflicting Inter.pdf"/>
+        <dc:title>Blüthgen et al. - 2007 - Specialization, Constraints, and Conflicting Inter.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://linkinghub.elsevier.com/retrieve/pii/S1364815210002306">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:13648152"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Almeida-Neto</foaf:surname>
+                        <foaf:givenname>Mário</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ulrich</foaf:surname>
+                        <foaf:givenname>Werner</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_73"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://linkinghub.elsevier.com/retrieve/pii/S1364815210002306</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>173-178</bib:pages>
+        <dc:date>02/2011</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 07:59:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Nestedness has been one of the most reported patterns of species distribution in metacommunities as well as of species interactions in bipartite networks. We propose here a straightforward approach for quantifying nestedness using quantitative instead of presenceeabsence data. We named our estimator WNODF because it is a simple modiﬁcation of the nestedness index called NODF. We also introduce the NODF-Program that calculates the above described nestedness metrics as well as metrics for idiosyncratic species and sites. Statistical inference is done through a null model approach, in which the user can choose among ﬁve null models commonly used for presenceeabsence matrices as well as three randomization algorithms for matrices that contain quantitative data. The program performs multiple analyses using many matrices. Finally, the NODF-Program provides four sorting options that, together with the null algorithms, cover a range of possibilities to test hypotheses on the possible mechanisms producing nested patterns. By using a set of model matrices, we showed that WNODF differentiates nested matrices with distinct structures and correctly identiﬁes matrices with no nested pattern as having zero degree of nestedness.</dcterms:abstract>
+        <dc:title>A straightforward computational approach for measuring nestedness using quantitative matrices</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:13648152">
+        <prism:volume>26</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Environmental Modelling &amp; Software</dc:title>
+        <dc:identifier>ISSN 13648152</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.envsoft.2010.08.003</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/73/Almeida-Neto and Ulrich - 2011 - A straightforward computational approach for measu.pdf"/>
+        <dc:title>Almeida-Neto and Ulrich - 2011 - A straightforward computational approach for measu.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/RevModPhys.88.035006">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0034-6861,%201539-0756"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/RevModPhys.88.035006</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-9-6</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:15:39</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Control principles of complex systems</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0034-6861,%201539-0756">
+        <prism:volume>88</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Reviews of Modern Physics</dc:title>
+        <dc:identifier>ISSN 0034-6861, 1539-0756</dc:identifier>
+        <dc:identifier>DOI 10.1103/RevModPhys.88.035006</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/75/Liu and Barabási - 2016 - Control principles of complex systems.pdf"/>
+        <dc:title>Liu and Barabási - 2016 - Control principles of complex systems.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.1461-0248.2007.01055.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1461-023X,%201461-0248"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopezaraiza–Mikel</foaf:surname>
+                        <foaf:givenname>Martha E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hayes</foaf:surname>
+                        <foaf:givenname>Richard B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whalley</foaf:surname>
+                        <foaf:givenname>Martin R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Memmott</foaf:surname>
+                        <foaf:givenname>Jane</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.1461-0248.2007.01055.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>539-550</bib:pages>
+        <dc:date>07/2007</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:16:40</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Studies of pairwise interactions have shown that an alien plant can affect the pollination of a native plant, this effect being mediated by shared pollinators. Here we use a manipulative ﬁeld experiment, to investigate the impact of the alien plant Impatiens glandulifera on an entire community of coflowering native plants. Visitation and pollen transport networks were constructed to compare replicated I. glandulifera invaded and I. glandulifera removal plots. Invaded plots had significantly higher visitor species richness, visitor abundance and flower visitation. However, the pollen transport networks were dominated by alien pollen grains in the invaded plots and consequently higher visitation may not translate in facilitation for pollination. The more generalized insects were more likely to visit the alien plant, and Hymenoptera and Hemiptera were more likely to visit the alien than Coleoptera. Our data indicate that generalized native pollinators can provide a pathway of integration for alien plants into native visitation systems.</dcterms:abstract>
+        <dc:title>The impact of an alien plant on a native plant–pollinator network: an experimental approach</dc:title>
+        <z:shortTitle>The impact of an alien plant on a native plant–pollinator network</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1461-023X,%201461-0248">
+        <prism:volume>10</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>Ecology Letters</dc:title>
+        <dc:identifier>ISSN 1461-023X, 1461-0248</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1461-0248.2007.01055.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/Lopezaraiza–Mikel et al. - 2007 - The impact of an alien plant on a native plant–pol.pdf"/>
+        <dc:title>Lopezaraiza–Mikel et al. - 2007 - The impact of an alien plant on a native plant–pol.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s00442-007-0946-1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0029-8549,%201432-1939"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bartomeus</foaf:surname>
+                        <foaf:givenname>Ignasi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vilà</foaf:surname>
+                        <foaf:givenname>Montserrat</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santamaría</foaf:surname>
+                        <foaf:givenname>Luís</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s00442-007-0946-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>761-770</bib:pages>
+        <dc:date>4/2008</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:17:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Contrasting effects of invasive plants in plant–pollinator networks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0029-8549,%201432-1939">
+        <prism:volume>155</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Oecologia</dc:title>
+        <dc:identifier>ISSN 0029-8549, 1432-1939</dc:identifier>
+        <dc:identifier>DOI 10.1007/s00442-007-0946-1</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Bartomeus et al. - 2008 - Contrasting effects of invasive plants in plant–po.pdf"/>
+        <dc:title>Bartomeus et al. - 2008 - Contrasting effects of invasive plants in plant–po.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.1461-0248.2005.00810.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1461023X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vázquez</foaf:surname>
+                        <foaf:givenname>Diego P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morris</foaf:surname>
+                        <foaf:givenname>William F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordano</foaf:surname>
+                        <foaf:givenname>Pedro</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_81"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.1461-0248.2005.00810.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1088-1094</bib:pages>
+        <dc:date>10/2005</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:20:16</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>We evaluate whether species interaction frequency can be used as a surrogate for the total effect of a species on another. Because interaction frequency is easier to estimate than per-interaction effect, using interaction frequency as a surrogate of total effect could facilitate the large-scale analysis of quantitative patterns of species-rich interaction networks. We show mathematically that the correlation between interaction frequency (I ) and total effect (T ) becomes more strongly positive the greater the variation of I relative to the variation of per-interaction effect (P ) and the greater the correlation between I and P. A meta-analysis using data on I, P and T for animal pollinators and seed dispersers visiting plants shows a generally strong, positive relationship between T and I, in spite of no general relationship between P and I. Thus, frequent animal mutualists usually contribute the most to plant reproduction, regardless of their effectiveness on a per-interaction basis.</dcterms:abstract>
+        <dc:title>Interaction frequency as a surrogate for the total effect of animal mutualists on plants: Total effect of animal mutualists on plants</dc:title>
+        <z:shortTitle>Interaction frequency as a surrogate for the total effect of animal mutualists on plants</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1461023X">
+        <prism:volume>8</prism:volume>
+        <prism:number>10</prism:number>
+        <dc:title>Ecology Letters</dc:title>
+        <dc:identifier>ISSN 1461023X</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1461-0248.2005.00810.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_81">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/81/Vázquez et al. - 2005 - Interaction frequency as a surrogate for the total.pdf"/>
+        <dc:title>Vázquez et al. - 2005 - Interaction frequency as a surrogate for the total.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencemag.org/cgi/doi/10.1126/science.1123412">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>312</prism:volume>
+                <prism:number>5772</prism:number>
+                <dc:title>Science</dc:title>
+                <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+                <dc:identifier>DOI 10.1126/science.1123412</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordano</foaf:surname>
+                        <foaf:givenname>P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olesen</foaf:surname>
+                        <foaf:givenname>J. M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_83"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencemag.org/cgi/doi/10.1126/science.1123412</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>431-433</bib:pages>
+        <dc:date>2006-04-21</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:21:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Asymmetric Coevolutionary Networks Facilitate Biodiversity Maintenance</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_83">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/83/Bascompte et al. - 2006 - Asymmetric Coevolutionary Networks Facilitate Biod.pdf"/>
+        <dc:title>Bascompte et al. - 2006 - Asymmetric Coevolutionary Networks Facilitate Biod.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_89">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15582523"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenname>Ching Tal</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_90"/>
+        <bib:pages>201-208</bib:pages>
+        <dc:date>1974</dc:date>
+        <dc:description>bibtex: lin_structural_1974 
+bibtex[isbn=0018-9286;mendeley-groups=PHD-literature]</dc:description>
+        <dcterms:abstract>The new concepts of &quot;structure&quot; and &quot;structural controllability&quot; for a linear time-invariant control system (described by a pair (texA,b/tex)) are defined and studied. The physical justification of these concepts and examples are also given. The graph of a pair (texA,b/tex) is also defined. This gives another way of describing the structure of this pair. The property of structural controllability is reduced to a property of the graph of the pair (texA,b/tex). To do this, the basic concept of a &quot;cactus&quot; and the related concept of a &quot;precactus&quot; are introduced. The main result of this paper states that the pair (texA,b/tex) is structurally controllable if an only if the graph of (texA,b/tex) is &quot;spanned by a cactus.&quot; The result is also expressed in a more conventional way, in terms of some properties of the pair (texA,b/tex).</dcterms:abstract>
+        <dc:title>Structural Controllability</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15582523">
+        <prism:volume>19</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>IEEE Transactions on Automatic Control</dc:title>
+        <dc:identifier>ISSN 15582523</dc:identifier>
+        <dc:identifier>DOI 10.1109/TAC.1974.1100557</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_90">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/90/Lin - 1974 - Structural Controllability.pdf"/>
+        <dc:title>Lin - 1974 - Structural Controllability.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://neobiota.pensoft.net/articles.php?id=10038">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1314-2488,%201619-0033"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woodford</foaf:surname>
+                        <foaf:givenname>Darragh J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richardson</foaf:surname>
+                        <foaf:givenname>David M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacIsaac</foaf:surname>
+                        <foaf:givenname>Hugh J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mandrak</foaf:surname>
+                        <foaf:givenname>Nicholas E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Wilgen</foaf:surname>
+                        <foaf:givenname>Brian W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>John R. U.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weyl</foaf:surname>
+                        <foaf:givenname>Olaf L. F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://neobiota.pensoft.net/articles.php?id=10038</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>63-86</bib:pages>
+        <dc:date>2016-09-14</dc:date>
+        <dcterms:dateSubmitted>2018-04-28 09:37:14</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The Anthropocene Epoch is characterized by novel and increasingly complex dependencies between the environment and human civilization, with many challenges of biodiversity management emerging as wicked problems. Problems arising from the management of biological invasions can be either tame (with simple or obvious solutions) or wicked, where difficulty in appropriately defining the problem can make complete solutions impossible to find. We review four case studies that reflect the main goals in the management of biological invasions – prevention, eradication, and impact reduction – assessing the drivers and extent of wickedness in each. We find that a disconnect between the perception and reality of how wicked a problem is can profoundly influence the likelihood of successful management. For example, managing species introductions can be wicked, but shifting from species-focused to vector-focused risk management can greatly reduce the complexity, making it a tame problem. The scope and scale of the overall management goal will also dictate the wickedness of the problem and the achievability of management solutions (cf. eradication and ecosystem restoration). Finally, managing species that have both positive and negative impacts requires engagement with all stakeholders and scenario-based planning. Effective management of invasions requires either recognizing unavoidable wickedness, or circumventing it by seeking alternative management perspectives.</dcterms:abstract>
+        <dc:title>Confronting the wicked problem of managing biological invasions</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1314-2488,%201619-0033">
+        <prism:volume>31</prism:volume>
+        <dc:title>NeoBiota</dc:title>
+        <dc:identifier>ISSN 1314-2488, 1619-0033</dc:identifier>
+        <dc:identifier>DOI 10.3897/neobiota.31.10038</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/Woodford et al. - 2016 - Confronting the wicked problem of managing biologi.pdf"/>
+        <dc:title>Woodford et al. - 2016 - Confronting the wicked problem of managing biologi.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.2307/2937158">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00129615"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menge</foaf:surname>
+                        <foaf:givenname>Bruce A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_94"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.2307/2937158</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>21-74</bib:pages>
+        <dc:date>02/1995</dc:date>
+        <dcterms:dateSubmitted>2018-05-03 04:39:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>To determine the patterns of occurrence and importance of indirect effects relative to direct effects in natural communities, I analyzed experimentally based studies from 23 rocky intertidal habitats. The vehicle of analysis was the construction of interaction webs, or the subset of species in food webs involved in strong interactions. The analysis focused on indirect effects involving changes in abundance, or interaction chains, since little information was available on other types of indirect effects (behavioral, chemical response, environmental). As expected, number of direct (= strong) interactions, indirect effects, interaction sequences producing indirect effects, and types of indirect effects (e.g., keystone predation, apparent competition, etc.) all increased with web species richness. Less expected, when these measures were adjusted to a per species basis, positive relationships with species richness were still observed for all measures but the number of types. In other words, with increasing web diversity, each species interacted strongly with more species, was involved in more indirect effects, and was part of more interaction pathways. The analysis identified 83 subtypes of indirect effect, including the seven previously identified types. Many of the 76 additional types could be reclassified into the seven types if the original definitions of these &quot;classic&quot; types were expanded to include interactions having similar effects but differing in the specific mechanism (e.g., both interference competition and inhibition of recruitment [preemption] have negative effects involving a spatial resource). Two new types of indirect effect, termed &quot;apparent predation&quot; and &quot;indirect defense&quot; were also identified, producing a total of 9 general types of indirect effect divided among 565 specific indirect effects. Of these, keystone predation (35%) and apparent competition (25%) were most common and exploitation competition (2.8%) was least common in these webs.</dcterms:abstract>
+        <dc:title>Indirect Effects in Marine Rocky Intertidal Interaction Webs: Patterns and Importance</dc:title>
+        <z:shortTitle>Indirect Effects in Marine Rocky Intertidal Interaction Webs</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00129615">
+        <prism:volume>65</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Ecological Monographs</dc:title>
+        <dc:identifier>ISSN 00129615</dc:identifier>
+        <dc:identifier>DOI 10.2307/2937158</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_94">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/94/Menge - 1995 - Indirect Effects in Marine Rocky Intertidal Intera.pdf"/>
+        <dc:title>Menge - 1995 - Indirect Effects in Marine Rocky Intertidal Intera.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/articles/srep38209">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Scientific Reports</dc:title>
+                <dc:identifier>ISSN 2045-2322</dc:identifier>
+                <dc:identifier>DOI 10.1038/srep38209</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Xizhe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lv</foaf:surname>
+                        <foaf:givenname>Tianyang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pu</foaf:surname>
+                        <foaf:givenname>Yuanyuan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_98"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nature.com/articles/srep38209</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>12/2016</dc:date>
+        <dcterms:dateSubmitted>2018-05-11 06:16:47</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Input graph: the hidden geometry in controlling complex networks</dc:title>
+        <z:shortTitle>Input graph</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_98">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/98/Zhang et al. - 2016 - Input graph the hidden geometry in controlling co.pdf"/>
+        <dc:title>Zhang et al. - 2016 - Input graph the hidden geometry in controlling co.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.plos.org/10.1371/journal.pone.0112039">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Xizhe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lv</foaf:surname>
+                        <foaf:givenname>Tianyang</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenname>XueYing</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Bin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gómez</foaf:surname>
+                        <foaf:givenname>Sergio</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_100"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.plos.org/10.1371/journal.pone.0112039</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e112039</bib:pages>
+        <dc:date>2014-11-6</dc:date>
+        <dcterms:dateSubmitted>2018-05-11 06:17:00</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Minimum driver node sets (MDSs) play an important role in studying the structural controllability of complex networks. Recent research has shown that MDSs tend to avoid high-degree nodes. However, this observation is based on the analysis of a small number of MDSs, because enumerating all of the MDSs of a network is a #P problem. Therefore, past research has not been sufficient to arrive at a convincing conclusion. In this paper, first, we propose a preferential matching algorithm to find MDSs that have a specific degree property. Then, we show that the MDSs obtained by preferential matching can be composed of high- and medium-degree nodes. Moreover, the experimental results also show that the average degree of the MDSs of some networks tends to be greater than that of the overall network, even when the MDSs are obtained using previous research method. Further analysis shows that whether the driver nodes tend to be high-degree nodes or not is closely related to the edge direction of the network.</dcterms:abstract>
+        <dc:title>Structural Controllability of Complex Networks Based on Preferential Matching</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>9</prism:volume>
+        <prism:number>11</prism:number>
+        <dc:title>PLoS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <dc:identifier>DOI 10.1371/journal.pone.0112039</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_100">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/100/Zhang et al. - 2014 - Structural Controllability of Complex Networks Bas.pdf"/>
+        <dc:title>Zhang et al. - 2014 - Structural Controllability of Complex Networks Bas.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/articles/srep02354">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>3</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Scientific Reports</dc:title>
+                <dc:identifier>ISSN 2045-2322</dc:identifier>
+                <dc:identifier>DOI 10.1038/srep02354</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenname>Tao</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_104"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nature.com/articles/srep02354</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>12/2013</dc:date>
+        <dcterms:dateSubmitted>2018-05-14 05:32:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Control Capacity and A Random Sampling Method in Exploring Controllability of Complex Networks</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/104/Jia and Barabási - 2013 - Control Capacity and A Random Sampling Method in E.pdf"/>
+        <dc:title>Jia and Barabási - 2013 - Control Capacity and A Random Sampling Method in E.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://igraph.org">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1695</prism:volume>
+                <prism:number>5</prism:number>
+                <dc:title>InterJournal, Complex Systems</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Csardi</foaf:surname>
+                        <foaf:givenname>Gabor</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nepusz</foaf:surname>
+                        <foaf:givenname>Tamas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://igraph.org</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-9</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:description>bibtex: Csardi2006a</dc:description>
+        <dc:title>The igraph software package for complex network research</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-1-4398-8018-0">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-4398-8018-0</dc:identifier>
+                <dc:title>Handbook of Graph Theory</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Chapman and Hall/CRC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gutin</foaf:surname>
+                        <foaf:givenname>Gregory</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenname>Ping</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.crcnetbase.com/doi/abs/10.1201/b16132-31</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:edition>Second Edi</prism:edition>
+        <bib:pages>475-489</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>bibtex: Gutin2013 
+bibtex[chapter=5.3;mendeley-groups=PHD-literature] 
+DOI: 10.1201/b16132-31</dc:description>
+        <dc:title>Independence and Cliques</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="http://www.nature.com/articles/ncomms3002">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Nature Communications</dc:title>
+                <dc:identifier>ISSN 2041-1723</dc:identifier>
+                <dc:identifier>DOI 10.1038/ncomms3002</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenname>Tao</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenname>Yang-Yu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Csóka</foaf:surname>
+                        <foaf:givenname>Endre</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pósfai</foaf:surname>
+                        <foaf:givenname>Márton</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slotine</foaf:surname>
+                        <foaf:givenname>Jean-Jacques</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barabási</foaf:surname>
+                        <foaf:givenname>Albert-László</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_109"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nature.com/articles/ncomms3002</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>12/2013</dc:date>
+        <dcterms:dateSubmitted>2018-05-23 01:35:49</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Emergence of bimodality in controlling complex networks</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/109/Jia et al. - 2013 - Emergence of bimodality in controlling complex net.pdf"/>
+        <dc:title>Jia et al. - 2013 - Emergence of bimodality in controlling complex net.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://stacks.iop.org/1742-5468/2005/i=02/a=P02001?key=crossref.e4053a9b90c53dc6389df3133f6566b8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2005</prism:volume>
+                <prism:number>02</prism:number>
+                <dc:title>Journal of Statistical Mechanics: Theory and Experiment</dc:title>
+                <dc:identifier>ISSN 1742-5468</dc:identifier>
+                <dc:identifier>DOI 10.1088/1742-5468/2005/02/P02001</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guimerà</foaf:surname>
+                        <foaf:givenname>Roger</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amaral</foaf:surname>
+                        <foaf:givenname>Luís A Nunes</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_116"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://stacks.iop.org/1742-5468/2005/i=02/a=P02001?key=crossref.e4053a9b90c53dc6389df3133f6566b8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>P02001</bib:pages>
+        <dc:date>2005-02-02</dc:date>
+        <dcterms:dateSubmitted>2018-06-14 07:58:31</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Integrative approaches to the study of complex systems demand that one knows the manner in which the parts comprising the system are connected. The structure of the complex network defining the interactions provides insight into the function and evolution of the components of the system. Unfortunately, the large size and intricacy of these networks implies that such insight is usually difficult to extract. Here, we propose a method that allows one to systematically extract and display information contained in complex networks. Specifically, we demonstrate that one can (i) find modules in complex networks and (ii) classify nodes into universal roles according to their pattern of within- and between-module connections. The method thus yields a ‘cartographic representation’ of complex networks.</dcterms:abstract>
+        <dc:title>Cartography of complex networks: modules and universal roles</dc:title>
+        <z:shortTitle>Cartography of complex networks</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_116">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/116/Guimerà and Amaral - 2005 - Cartography of complex networks modules and unive.pdf"/>
+        <dc:title>Guimerà and Amaral - 2005 - Cartography of complex networks modules and unive.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/ele.12612">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <prism:number>7</prism:number>
+                <dc:title>Ecology Letters</dc:title>
+                <dc:identifier>ISSN 1461023X</dc:identifier>
+                <dc:identifier>DOI 10.1111/ele.12612</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coux</foaf:surname>
+                        <foaf:givenname>Camille</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rader</foaf:surname>
+                        <foaf:givenname>Romina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bartomeus</foaf:surname>
+                        <foaf:givenname>Ignasi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tylianakis</foaf:surname>
+                        <foaf:givenname>Jason M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mouillot</foaf:surname>
+                        <foaf:givenname>David</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1111/ele.12612</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>762-770</bib:pages>
+        <dc:date>07/2016</dc:date>
+        <dcterms:dateSubmitted>2018-06-14 07:59:22</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Species roles in ecological networks combine to generate their architecture, which contributes to their stability. Species trait diversity also affects ecosystem functioning and resilience, yet it remains unknown whether species’ contributions to functional diversity relate to their network roles. Here, we use 21 empirical pollen transport networks to characterise this relationship. We found that, apart from a few abundant species, pollinators with original traits either had few interaction partners or interacted most frequently with a subset of these partners. This suggests that narrowing of interactions to a subset of the plant community accompanies pollinator niche specialisation, congruent with our hypothesised trade-off between having unique traits vs. being able to interact with many mutualist partners. Conversely, these effects were not detected in plants, potentially because key aspects of their ﬂowering traits are conserved at a family level. Relating functional and network roles can provide further insight into mechanisms underlying ecosystem functioning.</dcterms:abstract>
+        <dc:title>Linking species functional roles to their network roles</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/Coux et al. - 2016 - Linking species functional roles to their network .pdf"/>
+        <dc:title>Coux et al. - 2016 - Linking species functional roles to their network .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstor.org/stable/24113356">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Community Ecology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Z. Benedek</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>F. Jordán</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>A. Báldi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_120"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/24113356</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-7</bib:pages>
+        <dc:date>2007</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Advanced techniques of network analysis allow the quantification of the indirect interactions and the topo logical importance of components in ecological interaction networks. In current conservation biology, considering in direct causal effects, identifying keystone species and outlining multispecies approaches begin to be high priority goals. We make an attempt to connect these issues within a network context. Our main interest is to determine the positionally most important set of n nodes in a network, to analyse whether a set of nodes for small n is a subset of another for larger n, and to quantify this nestedness. We apply the KeyPlayer software, a novel tool for network analysis in ecology, introduced originally in mathematical sociology. Topological keystone species complexes are defined, we illustrate the use of this method in a case study and analyse a database of 9 plant-pollinator interaction networks. Our main conclusion is that multispecies approaches may give results very different from single species analyses.</dcterms:abstract>
+        <dc:title>Topological keystone species complexes in ecological interaction networks</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_120">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/120/Z. Benedek et al. - 2007 - Topological keystone species complexes in ecologic.pdf"/>
+        <dc:title>Z. Benedek et al. - 2007 - Topological keystone species complexes in ecologic.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://linkinghub.elsevier.com/retrieve/pii/S0304380007001184">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03043800"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordán</foaf:surname>
+                        <foaf:givenname>Ferenc</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benedek</foaf:surname>
+                        <foaf:givenname>Zsófia</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Podani</foaf:surname>
+                        <foaf:givenname>János</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_122"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://linkinghub.elsevier.com/retrieve/pii/S0304380007001184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>270-275</bib:pages>
+        <dc:date>7/2007</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 06:53:46</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Conservation biology should focus more on the importance rather than the rarity of species, although the deﬁnition and quantiﬁcation of importance are not easy. One approach involves measuring the positional importance (e.g. centrality) of species in ecological interaction networks to provide a basis for species ranking. However, there are many centrality indices, each reﬂecting a particular aspect of positional importance and therefore giving a rank order of species different from those provided by alternative formulations. Thus, there is a strong need for comparing the available indices and for examining their relative merits in network analysis. In this paper, we apply 13 centrality indices to the “species” (trophic components) of methodologically comparable trophic ﬂow networks, in order to answer the following questions: (1) What is the disagreement between different indices regarding the rank of a given species in a given network? (2) How is this disagreement in performance inﬂuenced by the choice of the network? (3) What is the overall relationship among these indices and, in particular, which are the most similar to degree (the simplest index of all, being equal to the number of links pertaining to a given node)? We compare the 13 indices based on the data of nine networks using metric and rank statistics and multivariate analysis procedures. We conclude that (1) different centrality ranks differ in each network; (2) different webs can be characterized by different relationships between ranks but there is a robust pattern of relationships among the indices, some index pairs behaving very similarly in all networks; and (3) it is the index of closeness centrality which provides a rank most similar to that based on degree.</dcterms:abstract>
+        <dc:title>Quantifying positional importance in food webs: A comparison of centrality indices</dc:title>
+        <z:shortTitle>Quantifying positional importance in food webs</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03043800">
+        <prism:volume>205</prism:volume>
+        <prism:number>1-2</prism:number>
+        <dc:title>Ecological Modelling</dc:title>
+        <dc:identifier>ISSN 03043800</dc:identifier>
+        <dc:identifier>DOI 10.1016/j.ecolmodel.2007.02.032</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/Jordán et al. - 2007 - Quantifying positional importance in food webs A .pdf"/>
+        <dc:title>Jordán et al. - 2007 - Quantifying positional importance in food webs A .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/bioscience/article-lookup/doi/10.2307/1312122">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00063568,%2015253244"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mills</foaf:surname>
+                        <foaf:givenname>L. Scott</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doak</foaf:surname>
+                        <foaf:givenname>Daniel F.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_124"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/bioscience/article-lookup/doi/10.2307/1312122</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>219-224</bib:pages>
+        <dc:date>04/1993</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 06:57:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Keystone-Species Concept in Ecology and Conservation</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00063568,%2015253244">
+        <prism:volume>43</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>BioScience</dc:title>
+        <dc:identifier>ISSN 00063568, 15253244</dc:identifier>
+        <dc:identifier>DOI 10.2307/1312122</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/Mills and Doak - 1993 - The Keystone-Species Concept in Ecology and Conser.pdf"/>
+        <dc:title>Mills and Doak - 1993 - The Keystone-Species Concept in Ecology and Conser.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstor.org/stable/2781908">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>96</prism:volume>
+                <prism:number>6</prism:number>
+                <dc:title>American Journal of Sociology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Noah E. Friedkin</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_126"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/2781908</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1478-1504</bib:pages>
+        <dc:date>1991</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Theoretical Foundations for Centrality Measures</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/126/Noah E. Friedkin - 1991 - Theoretical Foundations for Centrality Measures.pdf"/>
+        <dc:title>Noah E. Friedkin - 1991 - Theoretical Foundations for Centrality Measures.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.1461-0248.2009.01437.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1461023X,%2014610248"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaiser-Bunbury</foaf:surname>
+                        <foaf:givenname>Christopher N.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muff</foaf:surname>
+                        <foaf:givenname>Stefanie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Memmott</foaf:surname>
+                        <foaf:givenname>Jane</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Müller</foaf:surname>
+                        <foaf:givenname>Christine B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caflisch</foaf:surname>
+                        <foaf:givenname>Amedeo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.1461-0248.2009.01437.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>442-452</bib:pages>
+        <dc:date>04/2010</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 07:05:56</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Species extinctions pose serious threats to the functioning of ecological communities worldwide. We used two qualitative and quantitative pollination networks to simulate extinction patterns following three removal scenarios: random removal and systematic removal of the strongest and weakest interactors. We accounted for pollinator behaviour by including potential links into temporal snapshots (12 consecutive 2-week networks) to reﬂect mutualistsÕ ability to ÔswitchÕ interaction partners (re-wiring). Qualitative data suggested a linear or slower than linear secondary extinction while quantitative data showed sigmoidal decline of plant interaction strength upon removal of the strongest interactor. Temporal snapshots indicated greater stability of re-wired networks over static systems. Tolerance of generalized networks to species extinctions was high in the random removal scenario, with an increase in network stability if species formed new interactions. Anthropogenic disturbance, however, that promote the extinction of the strongest interactors might induce a sudden collapse of pollination networks.</dcterms:abstract>
+        <dc:title>The robustness of pollination networks to the loss of species and interactions: a quantitative approach incorporating pollinator behaviour</dc:title>
+        <z:shortTitle>The robustness of pollination networks to the loss of species and interactions</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1461023X,%2014610248">
+        <prism:volume>13</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Ecology Letters</dc:title>
+        <dc:identifier>ISSN 1461023X, 14610248</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1461-0248.2009.01437.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/128/Kaiser-Bunbury et al. - 2010 - The robustness of pollination networks to the loss.pdf"/>
+        <dc:title>Kaiser-Bunbury et al. - 2010 - The robustness of pollination networks to the loss.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1046/j.1461-0248.2002.00354.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Ecology Letters</dc:title>
+                <dc:identifier>ISSN 1461-023X, 1461-0248</dc:identifier>
+                <dc:identifier>DOI 10.1046/j.1461-0248.2002.00354.x</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunne</foaf:surname>
+                        <foaf:givenname>Jennifer A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williams</foaf:surname>
+                        <foaf:givenname>Richard J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez</foaf:surname>
+                        <foaf:givenname>Neo D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_130"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1046/j.1461-0248.2002.00354.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>558-567</bib:pages>
+        <dc:date>07/2002</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 07:06:22</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Food-web structure mediates dramatic effects of biodiversity loss including secondary and ‘cascading’ extinctions. We studied these effects by simulating primary species loss in 16 food webs from terrestrial and aquatic ecosystems and measuring robustness in terms of the secondary extinctions that followed. As observed in other networks, food webs are more robust to random removal of species than to selective removal of species with the most trophic links to other species. More surprisingly, robustness increases with food-web connectance but appears independent of species richness and omnivory. In particular, food webs experience ‘rivet-like’ thresholds past which they display extreme sensitivity to removal of highly connected species. Higher connectance delays the onset of this threshold. Removing species with few trophic connections generally has little effect though there are several striking exceptions. These ﬁndings emphasize how the number of species removed affects ecosystems differently depending on the trophic functions of species removed.</dcterms:abstract>
+        <dc:title>Network structure and biodiversity loss in food webs: robustness increases with connectance</dc:title>
+        <z:shortTitle>Network structure and biodiversity loss in food webs</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_130">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/130/Dunne et al. - 2002 - Network structure and biodiversity loss in food we.pdf"/>
+        <dc:title>Dunne et al. - 2002 - Network structure and biodiversity loss in food we.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_133">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>116</prism:volume>
+                <prism:number>7</prism:number>
+                <dc:title>Oikos</dc:title>
+                <dc:identifier>DOI 10.1111/j.2007.0030-1299.15828.x</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vázquez</foaf:surname>
+                        <foaf:givenname>Diego P</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Melián</foaf:surname>
+                        <foaf:givenname>Carlos J</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Williams</foaf:surname>
+                        <foaf:givenname>Neal M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blüthgen</foaf:surname>
+                        <foaf:givenname>Nico</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krasnov</foaf:surname>
+                        <foaf:givenname>Boris R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poulin</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_132"/>
+        <bib:pages>1120-1127</bib:pages>
+        <dc:date>2007</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Species Abundance and Asymmetric Interaction Strength in Ecological Networks Author(s): Diego P. Vázquez, Carlos J. Melián, Neal M. Williams, Nico Blüthgen, Boris R. Krasnov and Robert Poulin</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/132/2007 - Species Abundance and Asymmetric Interaction Stren.pdf"/>
+        <dc:title>2007 - Species Abundance and Asymmetric Interaction Stren.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.nature.com/articles/nature10433">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0028-0836,%201476-4687"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saavedra</foaf:surname>
+                        <foaf:givenname>Serguei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stouffer</foaf:surname>
+                        <foaf:givenname>Daniel B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uzzi</foaf:surname>
+                        <foaf:givenname>Brian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>Jordi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_134"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.nature.com/articles/nature10433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>233-235</bib:pages>
+        <dc:date>10/2011</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 21:40:56</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Strong contributors to network persistence are the most vulnerable to extinction</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0028-0836,%201476-4687">
+        <prism:volume>478</prism:volume>
+        <prism:number>7368</prism:number>
+        <dc:title>Nature</dc:title>
+        <dc:identifier>ISSN 0028-0836, 1476-4687</dc:identifier>
+        <dc:identifier>DOI 10.1038/nature10433</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/134/Saavedra et al. - 2011 - Strong contributors to network persistence are the.pdf"/>
+        <dc:title>Saavedra et al. - 2011 - Strong contributors to network persistence are the.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.2041-210X.2011.00174.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041210X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poisot</foaf:surname>
+                        <foaf:givenname>Timothée</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canard</foaf:surname>
+                        <foaf:givenname>Elsa</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mouquet</foaf:surname>
+                        <foaf:givenname>Nicolas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hochberg</foaf:surname>
+                        <foaf:givenname>Michael E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_136"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.2041-210X.2011.00174.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>537-544</bib:pages>
+        <dc:date>06/2012</dc:date>
+        <dcterms:dateSubmitted>2018-06-15 22:07:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>1. Ecological specialization is a unifying concept in the biological sciences. While there are reliable ways to characterize speciﬁcity at individual and community levels, the evaluation of population and species-level measures is lacking. There is a need for such assessments given that populations and species are the relevant scales for most ecological and evolutionary processes.</dcterms:abstract>
+        <dc:title>A comparative study of ecological specialization estimators: &lt;i&gt;Species-level specialization&lt;/i&gt;</dc:title>
+        <z:shortTitle>A comparative study of ecological specialization estimators</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041210X">
+        <prism:volume>3</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Methods in Ecology and Evolution</dc:title>
+        <dc:identifier>ISSN 2041210X</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.2041-210X.2011.00174.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_136">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/136/Poisot et al. - 2012 - A comparative study of ecological specialization e.pdf"/>
+        <dc:title>Poisot et al. - 2012 - A comparative study of ecological specialization e.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencemag.org/cgi/doi/10.1126/science.1253497">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>345</prism:volume>
+                <prism:number>6195</prism:number>
+                <dc:title>Science</dc:title>
+                <dc:identifier>ISSN 0036-8075, 1095-9203</dc:identifier>
+                <dc:identifier>DOI 10.1126/science.1253497</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rohr</foaf:surname>
+                        <foaf:givenname>R. P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saavedra</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_138"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencemag.org/cgi/doi/10.1126/science.1253497</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1253497-1253497</bib:pages>
+        <dc:date>2014-07-25</dc:date>
+        <dcterms:dateSubmitted>2018-06-16 02:21:21</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>On the structural stability of mutualistic systems</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_138">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/138/Rohr et al. - 2014 - On the structural stability of mutualistic systems.pdf"/>
+        <dc:title>Rohr et al. - 2014 - On the structural stability of mutualistic systems.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1002/ece3.1930">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:20457758"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saavedra</foaf:surname>
+                        <foaf:givenname>Serguei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rohr</foaf:surname>
+                        <foaf:givenname>Rudolf P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olesen</foaf:surname>
+                        <foaf:givenname>Jens M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bascompte</foaf:surname>
+                        <foaf:givenname>Jordi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_140"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1002/ece3.1930</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>997-1007</bib:pages>
+        <dc:date>02/2016</dc:date>
+        <dcterms:dateSubmitted>2018-06-16 02:22:37</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The foundational concepts behind the persistence of ecological communities have been based on two ecological properties: dynamical stability and feasibility. The former is typically regarded as the capacity of a community to return to an original equilibrium state after a perturbation in species abundances and is usually linked to the strength of interspeciﬁc interactions. The latter is the capacity to sustain positive abundances on all its constituent species and is linked to both interspeciﬁc interactions and species demographic characteristics. Over the last 40 years, theoretical research in ecology has emphasized the search for conditions leading to the dynamical stability of ecological communities, while the conditions leading to feasibility have been overlooked. However, thus far, we have no evidence of whether species interactions are more conditioned by the community’s need to be stable or feasible. Here, we introduce novel quantitative methods and use empirical data to investigate the consequences of species interactions on the dynamical stability and feasibility of mutualistic communities. First, we demonstrate that the more nested the species interactions in a community are, the lower the mutualistic strength that the community can tolerate without losing dynamical stability. Second, we show that high feasibility in a community can be reached either with high mutualistic strength or with highly nested species interactions. Third, we ﬁnd that during the assembly process of a seasonal pollinator community located at The Zackenberg Research Station (northeastern Greenland), a high feasibility is reached through the nested species interactions established between newcomer and resident species. Our ﬁndings imply that nested mutualistic communities promote feasibility over stability, which may suggest that the former can be key for community persistence.</dcterms:abstract>
+        <dc:title>Nested species interactions promote feasibility over stability during the assembly of a pollinator community</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:20457758">
+        <prism:volume>6</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Ecology and Evolution</dc:title>
+        <dc:identifier>ISSN 20457758</dc:identifier>
+        <dc:identifier>DOI 10.1002/ece3.1930</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_140">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/140/Saavedra et al. - 2016 - Nested species interactions promote feasibility ov.pdf"/>
+        <dc:title>Saavedra et al. - 2016 - Nested species interactions promote feasibility ov.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2015.1130">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0962-8452,%201471-2954"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballantyne</foaf:surname>
+                        <foaf:givenname>G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldock</foaf:surname>
+                        <foaf:givenname>Katherine C. R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willmer</foaf:surname>
+                        <foaf:givenname>P. G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_142"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2015.1130</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>20151130</bib:pages>
+        <dc:date>2015-09-07</dc:date>
+        <dcterms:dateSubmitted>2018-06-16 03:35:53</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Constructing more informative plant–pollinator networks: visitation and pollen deposition networks in a heathland plant community</dc:title>
+        <z:shortTitle>Constructing more informative plant–pollinator networks</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0962-8452,%201471-2954">
+        <prism:volume>282</prism:volume>
+        <prism:number>1814</prism:number>
+        <dc:title>Proceedings of the Royal Society B: Biological Sciences</dc:title>
+        <dc:identifier>ISSN 0962-8452, 1471-2954</dc:identifier>
+        <dc:identifier>DOI 10.1098/rspb.2015.1130</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/142/Ballantyne et al. - 2015 - Constructing more informative plant–pollinator net.pdf"/>
+        <dc:title>Ballantyne et al. - 2015 - Constructing more informative plant–pollinator net.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.1469-185X.2009.00108.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:14647931,%201469185X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ne'eman</foaf:surname>
+                        <foaf:givenname>Gidi</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jürgens</foaf:surname>
+                        <foaf:givenname>Andreas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Newstrom-Lloyd</foaf:surname>
+                        <foaf:givenname>Linda</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Potts</foaf:surname>
+                        <foaf:givenname>Simon G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dafni</foaf:surname>
+                        <foaf:givenname>Amots</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_144"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.1469-185X.2009.00108.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>no-no</bib:pages>
+        <dc:date>2009-12-09</dc:date>
+        <dcterms:dateSubmitted>2018-06-16 03:37:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Measuring pollinator performance has become increasingly important with emerging needs for risk assessment in conservation and sustainable agriculture that require multi-year and multi-site comparisons across studies. However, comparing pollinator performance across studies is difﬁcult because of the diversity of concepts and disparate methods in use. Our review of the literature shows many unresolved ambiguities. Two different assessment concepts predominate: the ﬁrst estimates stigmatic pollen deposition and the underlying pollinator behaviour parameters, while the second estimates the pollinator’s contribution to plant reproductive success, for example in terms of seed set. Both concepts include a number of parameters combined in diverse ways and named under a diversity of synonyms and homonyms. However, these concepts are overlapping because pollen deposition success is the most frequently used proxy for assessing the pollinator’s contribution to plant reproductive success. We analyse the diverse concepts and methods in the context of a new proposed conceptual framework with a modular approach based on pollen deposition, visit frequency, and contribution to seed set relative to the plant’s maximum female reproductive potential. A system of equations is proposed to optimize the balance between idealised theoretical concepts and practical operational methods. Our framework permits comparisons over a range of ﬂoral phenotypes, and spatial and temporal scales, because scaling up is based on the same fundamental unit of analysis, the single visit.</dcterms:abstract>
+        <dc:title>A framework for comparing pollinator performance: effectiveness and efficiency</dc:title>
+        <z:shortTitle>A framework for comparing pollinator performance</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:14647931,%201469185X">
+        <dc:title>Biological Reviews</dc:title>
+        <dc:identifier>ISSN 14647931, 1469185X</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1469-185X.2009.00108.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/144/Ne'eman et al. - 2009 - A framework for comparing pollinator performance .pdf"/>
+        <dc:title>Ne'eman et al. - 2009 - A framework for comparing pollinator performance .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/j.1600-0706.2009.17694.x">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00301299,%2016000706"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alarcón</foaf:surname>
+                        <foaf:givenname>Ruben</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_147"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1111/j.1600-0706.2009.17694.x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>35-44</bib:pages>
+        <dc:date>01/2010</dc:date>
+        <dcterms:dateSubmitted>2018-06-17 05:14:11</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Congruence between visitation and pollen-transport networks in a California plant–pollinator community</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00301299,%2016000706">
+        <prism:volume>119</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Oikos</dc:title>
+        <dc:identifier>ISSN 00301299, 16000706</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1600-0706.2009.17694.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_147">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/147/Alarcón - 2010 - Congruence between visitation and pollen-transport.pdf"/>
+        <dc:title>Alarcón - 2010 - Congruence between visitation and pollen-transport.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1111/2041-210X.12074">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <prism:number>9</prism:number>
+                <dc:title>Methods in Ecology and Evolution</dc:title>
+                <dc:identifier>ISSN 2041210X</dc:identifier>
+                <dc:identifier>DOI 10.1111/2041-210X.12074</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>King</foaf:surname>
+                        <foaf:givenname>Caroline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballantyne</foaf:surname>
+                        <foaf:givenname>Gavin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Willmer</foaf:surname>
+                        <foaf:givenname>Pat G.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Freckleton</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_149"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.wiley.com/10.1111/2041-210X.12074</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>811-818</bib:pages>
+        <dc:date>09/2013</dc:date>
+        <dcterms:dateSubmitted>2018-06-17 05:15:56</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>1. The relative importance of specialized and generalized plant-pollinator relationships is contentious, yet analyses usually avoid direct measures of pollinator quality (eﬀectiveness), citing diﬃculties in collecting such data in the ﬁeld and so relying on visitation data alone.</dcterms:abstract>
+        <dc:title>Why flower visitation is a poor proxy for pollination: measuring single-visit pollen deposition, with implications for pollination networks and conservation</dc:title>
+        <z:shortTitle>Why flower visitation is a poor proxy for pollination</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_149">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/149/King et al. - 2013 - Why flower visitation is a poor proxy for pollinat.pdf"/>
+        <dc:title>King et al. - 2013 - Why flower visitation is a poor proxy for pollinat.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
