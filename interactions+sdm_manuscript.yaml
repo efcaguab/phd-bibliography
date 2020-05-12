@@ -322,6 +322,7 @@ references:
   title: 'Ecospat: spatial ecology miscellaneous methods'
   type: book
   URL: 'https://CRAN.R-project.org/package=ecospat'
+  version: R package version 3.0
 
 - id: broennimann_measuring_2012
   abstract: >-
@@ -1479,7 +1480,7 @@ references:
       given: Raul
     - family: Bascompte
       given: Jordi
-  container-title: 'arXiv:1403.2575 [q-bio]'
+  container-title: 'arXiv:1403.2575'
   issued:
     - year: 2014
       month: 3
@@ -1504,7 +1505,7 @@ references:
   language: en
   page: '15'
   source: Zotero
-  title: Interaction ﬂexibility predicts pollinator population dynamics
+  title: Interaction flexibility predicts pollinator population dynamics
   type: article-journal
 
 - id: godsoe_integrating_2017
