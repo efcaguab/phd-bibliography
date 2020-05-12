@@ -1,0 +1,3644 @@
+---
+references:
+- id: baiser_ecogeographical_2019
+  abstract: >-
+    Aim: How do factors such as space, time, climate and other ecological
+    drivers influence food web structure and dynamics? Collections of
+    well‐studied food webs and replicate food webs from the same system that
+    span biogeographical and ecological gradients now enable detailed,
+    quantitative investigation of such questions and help integrate food web
+    ecology and macroecology. Here, we integrate macroecology and food web
+    ecology by focusing on how ecogeographical rules [the latitudinal diversity
+    gradient (LDG), Bergmann's rule, the island rule and Rapoport's rule] are
+    associated with the architecture of food webs.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Baiser
+      given: Benjamin
+    - family: Gravel
+      given: Dominique
+    - family: Cirtwill
+      given: Alyssa R.
+    - family: Dunne
+      given: Jennifer A.
+    - family: Fahimipour
+      given: Ashkaan K.
+    - family: Gilarranz
+      given: Luis J.
+    - family: Grochow
+      given: Joshua A.
+    - family: Li
+      given: Daijiang
+    - family: Martinez
+      given: Neo D.
+    - family: McGrew
+      given: Alicia
+    - family: Poisot
+      given: Timothée
+    - family: Romanuk
+      given: Tamara N.
+    - family: Stouffer
+      given: Daniel B.
+    - family: Trotta
+      given: Lauren B.
+    - family: Valdovinos
+      given: Fernanda S.
+    - family: Williams
+      given: Richard J.
+    - family: Wood
+      given: Spencer A.
+    - family: Yeakel
+      given: Justin D.
+  container-title: Global Ecology and Biogeography
+  DOI: 10.1111/geb.12925
+  editor:
+    - family: Fortin
+      given: Marie‐Josée
+  ISSN: '1466-822X, 1466-8238'
+  issued:
+    - year: 2019
+      month: 5
+      day: 20
+  language: en
+  source: Crossref
+  title: Ecogeographical rules and the macroecology of food webs
+  type: article-journal
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12925'
+
+- id: baiser_geographic_2012
+  accessed:
+    - year: 2019
+      month: 12
+      day: 9
+  author:
+    - family: Baiser
+      given: Benjamin
+    - family: Gotelli
+      given: Nicholas J.
+    - family: Buckley
+      given: Hannah L.
+    - family: Miller
+      given: Thomas E.
+    - family: Ellison
+      given: Aaron M.
+  container-title: Global Ecology and Biogeography
+  DOI: 10.1111/j.1466-8238.2011.00705.x
+  ISSN: 1466822X
+  issue: '5'
+  issued:
+    - year: 2012
+      month: 5
+  language: en
+  page: 579-591
+  source: Crossref
+  title: >-
+    Geographic variation in network structure of a nearctic aquatic food web:
+    Network structure in an aquatic food web
+  title-short: Geographic variation in network structure of a nearctic aquatic food web
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1466-8238.2011.00705.x'
+  volume: '21'
+
+- id: barner_fundamental_2018
+  abstract: >-
+    The difficulty of experimentally quantifying non-trophic species
+    interactions has long troubled ecologists. Increasingly, a new application
+    of the classic “checkerboard distribution” approach is used to infer
+    interactions by examining the pairwise frequency at which species are found
+    to spatially co-occur. However, the link between spatial associations, as
+    estimated from observational co-occurrence, and species interactions has not
+    been tested. Here we used nine common statistical methods to estimate
+    associations from surveys of rocky intertidal communities in the Northeast
+    Pacific Ocean. We compared those inferred associations with a new data set
+    of experimentally determined net and direct species interactions. Although
+    association methods generated networks with aggregate structure similar to
+    previously published interaction networks, each method detected a different
+    set of species associations from the same data set. Moreover, although
+    association methods generally performed better than a random model,
+    associations rarely matched empirical net or direct species interactions,
+    with high rates of false positives and true positives, and many false
+    negatives. Our findings cast doubt on studies that equate species
+    co-occurrences to species interactions and highlight a persistent,
+    unanswered question: how do we interpret spatial patterns in communities? We
+    suggest future research directions to unify the observational and
+    experimental study of species interactions, and discuss the need for
+    community standards and best practices in association analysis.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 11
+  author:
+    - family: Barner
+      given: Allison K.
+    - family: Coblentz
+      given: Kyle E.
+    - family: Hacker
+      given: Sally D.
+    - family: Menge
+      given: Bruce A.
+  container-title: Ecology
+  DOI: 10.1002/ecy.2133
+  ISSN: 00129658
+  issue: '3'
+  issued:
+    - year: 2018
+      month: 3
+  language: en
+  page: 557-566
+  source: Crossref
+  title: >-
+    Fundamental contradictions among observational and experimental estimates of
+    non-trophic species interactions
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1002/ecy.2133'
+  volume: '99'
+
+- id: baskett_latitudinal_2018
+  abstract: >-
+    The longstanding biotic interactions hypothesis predicts that herbivore
+    pressure declines with latitude, but the evidence is mixed. To address gaps
+    in previous studies, we measured herbivory and defence in the same system,
+    quantiﬁed defence with bioassays, and considered effects of leaf age. We
+    quantiﬁed herbivory and defence of young and mature leaves along a
+    continental gradient in eastern North America in the native herb Phytolacca
+    americana L. Herbivory in the ﬁeld declined with latitude and was strongly
+    correlated with lepidopteran abundance. Laboratory bioassays revealed that
+    leaf palatability was positively correlated with latitude of origin. Young
+    leaves were more damaged than mature leaves at lower latitudes in the ﬁeld,
+    but less palatable in bioassays. Both defence and palatability displayed
+    non-linear latitudinal patterns, suggesting potential mechanisms based on
+    biological or climatic thresholds. In sum, observational and experimental
+    studies ﬁnd patterns consistent with high herbivore pressure and stronger
+    plant defences at lower latitudes.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Baskett
+      given: Carina A.
+    - family: Schemske
+      given: Douglas W.
+  container-title: Ecology Letters
+  DOI: 10.1111/ele.12925
+  ISSN: 1461023X
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 4
+  language: en
+  page: 578-587
+  source: Crossref
+  title: >-
+    Latitudinal patterns of herbivore pressure in a temperate herb support the
+    biotic interactions hypothesis
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ele.12925'
+  volume: '21'
+
+- id: benadi_specialization_2014
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Benadi
+      given: Gita
+    - family: Hovestadt
+      given: Thomas
+    - family: Poethke
+      given: Hans-Joachim
+    - family: Blüthgen
+      given: Nico
+  container-title: Journal of Animal Ecology
+  container-title-short: J Anim Ecol
+  DOI: 10.1111/1365-2656.12158
+  editor:
+    - family: Ings
+      given: Thomas
+  ISSN: 00218790
+  issue: '3'
+  issued:
+    - year: 2014
+      month: 5
+  language: en
+  page: 639-650
+  source: DOI.org (Crossref)
+  title: >-
+    Specialization and phenological synchrony of plant-pollinator interactions
+    along an altitudinal gradient
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/1365-2656.12158'
+  volume: '83'
+
+- id: bertness_positive_1994
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Bertness
+      given: Mark D.
+    - family: Callaway
+      given: Ragan
+  container-title: Trends in Ecology & Evolution
+  DOI: 10.1016/0169-5347(94)90088-4
+  ISSN: 01695347
+  issue: '5'
+  issued:
+    - year: 1994
+      month: 5
+  language: en
+  page: 191-193
+  source: Crossref
+  title: Positive interactions in communities
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/0169534794900884'
+  volume: '9'
+
+- id: boulangeat_accounting_2012
+  abstract: >-
+    Although abiotic factors, together with dispersal and biotic interactions,
+    are often suggested to explain the distribution of species and their
+    abundances, species distribution models usually focus on abiotic factors
+    only. We propose an integrative framework linking ecological theory,
+    empirical data and statistical models to understand the distribution of
+    species and their abundances together with the underlying community assembly
+    dynamics. We illustrate our approach with 21 plant species in the French
+    Alps. We show that a spatially nested modelling framework signiﬁcantly
+    improves the modelÕs performance and that the spatial variations of species
+    presence–absence and abundances are predominantly explained by different
+    factors. We also show that incorporating abiotic, dispersal and biotic
+    factors into the same model bring new insights to our understanding of
+    community assembly. This approach, at the crossroads between community
+    ecology and biogeography, is a promising avenue for a better understanding
+    of species co-existence and biodiversity distribution.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 4
+  author:
+    - family: Boulangeat
+      given: Isabelle
+    - family: Gravel
+      given: Dominique
+    - family: Thuiller
+      given: Wilfried
+  container-title: Ecology Letters
+  DOI: 10.1111/j.1461-0248.2012.01772.x
+  ISSN: 1461023X
+  issue: '6'
+  issued:
+    - year: 2012
+      month: 6
+  language: en
+  page: 584-593
+  source: Crossref
+  title: >-
+    Accounting for dispersal and biotic interactions to disentangle the drivers
+    of species distributions and their abundances: The role of dispersal and
+    biotic interactions in explaining species distributions and abundances
+  title-short: >-
+    Accounting for dispersal and biotic interactions to disentangle the drivers
+    of species distributions and their abundances
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1461-0248.2012.01772.x'
+  volume: '15'
+
+- id: broennimann_ecospat_2018
+  author:
+    - family: Broennimann
+      given: Olivier
+    - family: Di Cola
+      given: Valeria
+    - family: Guisan
+      given: Antoine
+  issued:
+    - year: 2018
+  note: R package version 3.0
+  title: 'Ecospat: spatial ecology miscellaneous methods'
+  type: book
+  URL: 'https://CRAN.R-project.org/package=ecospat'
+
+- id: broennimann_measuring_2012
+  abstract: >-
+    Aim Concerns over how global change will inﬂuence species distributions, in
+    conjunction with increased emphasis on understanding niche dynamics in
+    evolutionary and community contexts, highlight the growing need for robust
+    methods to quantify niche differences between or within taxa. We propose a
+    statistical framework to describe and compare environmental niches from
+    occurrence and spatial environmental data.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 19
+  author:
+    - family: Broennimann
+      given: Olivier
+    - family: Fitzpatrick
+      given: Matthew C.
+    - family: Pearman
+      given: Peter B.
+    - family: Petitpierre
+      given: Blaise
+    - family: Pellissier
+      given: Loïc
+    - family: Yoccoz
+      given: Nigel G.
+    - family: Thuiller
+      given: Wilfried
+    - family: Fortin
+      given: Marie-Josée
+    - family: Randin
+      given: Christophe
+    - family: Zimmermann
+      given: Niklaus E.
+    - family: Graham
+      given: Catherine H.
+    - family: Guisan
+      given: Antoine
+  container-title: Global Ecology and Biogeography
+  DOI: 10.1111/j.1466-8238.2011.00698.x
+  ISSN: 1466822X
+  issue: '4'
+  issued:
+    - year: 2012
+      month: 4
+  language: en
+  page: 481-497
+  source: DOI.org (Crossref)
+  title: >-
+    Measuring ecological niche overlap from occurrence and spatial environmental
+    data: Measuring niche overlap
+  title-short: >-
+    Measuring ecological niche overlap from occurrence and spatial environmental
+    data
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1466-8238.2011.00698.x'
+  volume: '21'
+
+- id: burkle_plant-pollinator_2013
+  accessed:
+    - year: 2019
+      month: 9
+      day: 13
+  author:
+    - family: Burkle
+      given: L. A.
+    - family: Marlin
+      given: J. C.
+    - family: Knight
+      given: T. M.
+  container-title: Science
+  container-title-short: Science
+  DOI: 10.1126/science.1232728
+  ISSN: '0036-8075, 1095-9203'
+  issue: '6127'
+  issued:
+    - year: 2013
+      month: 3
+      day: 29
+  language: en
+  page: 1611-1615
+  source: DOI.org (Crossref)
+  title: >-
+    Plant-pollinator interactions over 120 years: loss of species,
+    co-occurrence, and function
+  title-short: Plant-Pollinator Interactions over 120 Years
+  type: article-journal
+  URL: 'http://www.sciencemag.org/cgi/doi/10.1126/science.1232728'
+  volume: '339'
+
+- id: burkner_advanced_2018
+  abstract: >-
+    The brms package allows R users to easily specify a wide range of Bayesian
+    single-level and multilevel models which are ﬁt with the probabilistic
+    programming language Stan behind the scenes. Several response distributions
+    are supported, of which all parameters (e.g., location, scale, and shape)
+    can be predicted. Non-linear relationships may be speciﬁed using non-linear
+    predictor terms or semi-parametric approaches such as splines or Gaussian
+    processes. Multivariate models can be ﬁt as well. To make all of these
+    modeling options possible in a multilevel framework, brms provides an
+    intuitive and powerful formula syntax, which extends the well known formula
+    syntax of lme4. The purpose of the present paper is to introduce this syntax
+    in detail and to demonstrate its usefulness with four examples, each showing
+    relevant aspects of the syntax.
+  accessed:
+    - year: 2019
+      month: 8
+      day: 17
+  author:
+    - family: Bürkner
+      given: Paul-Christian
+  container-title: The R Journal
+  DOI: 10.32614/RJ-2018-017
+  ISSN: 2073-4859
+  issue: '1'
+  issued:
+    - year: 2018
+  language: en
+  page: '395'
+  source: Crossref
+  title: Advanced Bayesian Multilevel Modeling with the R Package brms
+  type: article-journal
+  URL: 'https://journal.r-project.org/archive/2018/RJ-2018-017/index.html'
+  volume: '10'
+
+- id: burkner_brms_2017
+  abstract: >-
+    The brms package implements Bayesian multilevel models in R using the
+    probabilistic programming language Stan. A wide range of distributions and
+    link functions are supported, allowing users to ﬁt – among others – linear,
+    robust linear, binomial, Poisson, survival, ordinal, zero-inﬂated, hurdle,
+    and even non-linear models all in a multilevel context. Further modeling
+    options include autocorrelation of the response variable, user deﬁned
+    covariance structures, censored data, as well as meta-analytic standard
+    errors. Prior speciﬁcations are ﬂexible and explicitly encourage users to
+    apply prior distributions that actually reﬂect their beliefs. In addition,
+    model ﬁt can easily be assessed and compared with the Watanabe-Akaike
+    information criterion and leave-one-out cross-validation.
+  accessed:
+    - year: 2019
+      month: 8
+      day: 17
+  author:
+    - family: Bürkner
+      given: Paul-Christian
+  container-title: Journal of Statistical Software
+  DOI: 10.18637/jss.v080.i01
+  ISSN: 1548-7660
+  issue: '1'
+  issued:
+    - year: 2017
+  language: en
+  source: Crossref
+  title: 'brms: An R Package for Bayesian Multilevel Models Using Stan'
+  title-short: '**brms**'
+  type: article-journal
+  URL: 'http://www.jstatsoft.org/v80/i01/'
+  volume: '80'
+
+- id: caradonna_interaction_2017
+  abstract: >-
+    Whether species interactions are static or change over time has
+    wide-reaching ecological and evolutionary consequences. However, species
+    interaction networks are typically constructed from temporally aggregated
+    interaction data, thereby implicitly assuming that interactions are ﬁxed.
+    This approach has advanced our understanding of communities, but it obscures
+    the timescale at which interactions form (or dissolve) and the drivers and
+    consequences of such dynamics. We address this knowledge gap by quantifying
+    the within-season turnover of plant–pollinator interactions from weekly
+    censuses across 3 years in a subalpine ecosystem. Week-to-week turnover of
+    interactions (1) was high, (2) followed a consistent seasonal progression in
+    all years of study and (3) was dominated by interaction rewiring (the
+    reassembly of interactions among species). Simulation models revealed that
+    species’ phenologies and relative abundances constrained both total
+    interaction turnover and rewiring. Our ﬁndings reveal the diversity of
+    species interactions that may be missed when the temporal dynamics of
+    networks are ignored.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 13
+  author:
+    - family: CaraDonna
+      given: Paul J.
+    - family: Petry
+      given: William K.
+    - family: Brennan
+      given: Ross M.
+    - family: Cunningham
+      given: James L.
+    - family: Bronstein
+      given: Judith L.
+    - family: Waser
+      given: Nickolas M.
+    - family: Sanders
+      given: Nathan J.
+  container-title: Ecology Letters
+  container-title-short: Ecol Lett
+  DOI: 10.1111/ele.12740
+  editor:
+    - family: Jordan
+      given: Ferenc
+  ISSN: 1461023X
+  issue: '3'
+  issued:
+    - year: 2017
+      month: 3
+  language: en
+  page: 385-394
+  source: DOI.org (Crossref)
+  title: Interaction rewiring and the rapid turnover of plant-pollinator networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ele.12740'
+  volume: '20'
+
+- id: carpenter_stan_2017
+  abstract: >-
+    Stan is a probabilistic programming language for specifying statistical
+    models. A Stan program imperatively deﬁnes a log probability function over
+    parameters conditioned on speciﬁed data and constants. As of version 2.14.0,
+    Stan provides full Bayesian inference for continuous-variable models through
+    Markov chain Monte Carlo methods such as the No-U-Turn sampler, an adaptive
+    form of Hamiltonian Monte Carlo sampling. Penalized maximum likelihood
+    estimates are calculated using optimization methods such as the limited
+    memory Broyden-Fletcher-Goldfarb-Shanno algorithm.
+  accessed:
+    - year: 2019
+      month: 8
+      day: 17
+  author:
+    - family: Carpenter
+      given: Bob
+    - family: Gelman
+      given: Andrew
+    - family: Hoffman
+      given: Matthew D.
+    - family: Lee
+      given: Daniel
+    - family: Goodrich
+      given: Ben
+    - family: Betancourt
+      given: Michael
+    - family: Brubaker
+      given: Marcus
+    - family: Guo
+      given: Jiqiang
+    - family: Li
+      given: Peter
+    - family: Riddell
+      given: Allen
+  container-title: Journal of Statistical Software
+  DOI: 10.18637/jss.v076.i01
+  ISSN: 1548-7660
+  issue: '1'
+  issued:
+    - year: 2017
+  language: en
+  source: Crossref
+  title: 'Stan: A Probabilistic Programming Language'
+  title-short: '*Stan*'
+  type: article-journal
+  URL: 'http://www.jstatsoft.org/v76/i01/'
+  volume: '76'
+
+- id: chamberlain_r_2017
+  abstract: |-
+    Background
+                . The number of individuals of each species in a given location forms the basis for many sub-fields of ecology and evolution. Data on individuals, including which species, and where they're found can be used for a large number of research questions. Global Biodiversity Information Facility (hereafter, GBIF) is the largest of these. Programmatic clients for GBIF would make research dealing with GBIF data much easier and more reproducible.
+              
+              
+                Methods
+                . We have developed clients to access GBIF data for each of the R, Python, and Ruby programming languages: rgbif, pygbif, gbifrb.
+              
+              
+                Results
+                . For all clients we describe their design and utility, and demonstrate some use cases.
+              
+              
+                Discussion
+                . Programmatic access to GBIF will facilitate more open and reproducible science - the three GBIF clients described herein are a significant contribution towards this goal.
+  accessed:
+    - year: 2019
+      month: 6
+      day: 27
+  author:
+    - family: Chamberlain
+      given: Scott A
+    - family: Boettiger
+      given: Carl
+  DOI: 10.7287/peerj.preprints.3304v1
+  genre: preprint
+  issued:
+    - year: 2017
+      month: 9
+      day: 29
+  language: en
+  publisher: PeerJ Preprints
+  source: DOI.org (Crossref)
+  title: 'R Python, and Ruby clients for GBIF species occurrence data'
+  type: report
+  URL: 'https://peerj.com/preprints/3304'
+
+- id: chamberlain_rgbif_2019
+  author:
+    - family: Chamberlain
+      given: Scott
+    - family: Barve
+      given: Vijay
+    - family: Mcglinn
+      given: Dan
+    - family: Oldoni
+      given: Damiano
+    - family: Desmet
+      given: Peter
+    - family: Geffert
+      given: Laurens
+    - family: Ram
+      given: Karthik
+  issued:
+    - year: 2019
+  title: 'rgbif: Interface to the Global Biodiversity Information Facility API'
+  type: book
+  URL: 'https://CRAN.R-project.org/package=rgbif'
+
+- id: chamberlain_taxize_2013
+  author:
+    - family: Chamberlain
+      given: Scott
+    - family: Szocs
+      given: Eduard
+  container-title: F1000Research
+  issued:
+    - year: 2013
+  title: taxize - taxonomic search and retrieval in R
+  type: article-journal
+  URL: 'http://f1000research.com/articles/2-191/v2'
+
+- id: chamberlain_taxize_2019
+  author:
+    - family: Chamberlain
+      given: Scott
+    - family: Szoecs
+      given: Eduard
+    - family: Foster
+      given: Zachary
+    - family: Arendsee
+      given: Zebulun
+    - family: Boettiger
+      given: Carl
+    - family: Ram
+      given: Karthik
+    - family: Bartomeus
+      given: Ignasi
+    - family: Baumgartner
+      given: John
+    - family: O'Donnell
+      given: James
+    - family: Oksanen
+      given: Jari
+    - family: Tzovaras
+      given: Bastian Greshake
+    - family: Marchand
+      given: Philippe
+    - family: Tran
+      given: Vinh
+    - family: Salmon
+      given: Maëlle
+    - family: Li
+      given: Gaopeng
+  issued:
+    - year: 2019
+  title: 'taxize: Taxonomic information from around the web'
+  type: book
+  URL: 'https://github.com/ropensci/taxize'
+
+- id: cirtwill_review_2018
+  abstract: >-
+    Many different concepts have been used to describe species’ roles in food
+    webs (i.e., the ways in which species participate in their communities as
+    consumers and resources). As each concept focuses on a different aspect of
+    food-web structure, it can be diﬃcult to relate these concepts to each other
+    and to other aspects of ecology. Here we use the Eltonian niche as an
+    overarching framework, within which we summarize several commonly-used role
+    concepts (degree, trophic level, motif roles, and centrality). We focus
+    mainly on the topological versions of these concepts but, where dynamical
+    versions of a role concept exist, we acknowledge these as well. Our aim is
+    to highlight areas of overlap and ambiguity between different role concepts
+    and to describe how these roles can be used to group species according to
+    different strategies (i.e., equivalence and functional roles). The existence
+    of “gray areas” between role concepts make it essential for authors to
+    carefully consider both which role concept(s) are most appropriate for the
+    analyses they wish to conduct and what aspect of species’ niches (if any)
+    they wish to address. The ecological meaning of differences between species’
+    roles can change dramatically depending on which role concept(s) are used.
+  accessed:
+    - year: 2019
+      month: 3
+      day: 25
+  author:
+    - family: Cirtwill
+      given: Alyssa R.
+    - family: Dalla Riva
+      given: Giulio Valentino
+    - family: Gaiarsa
+      given: Marilia P.
+    - family: Bimler
+      given: Malyon D.
+    - family: Cagua
+      given: E. Fernando
+    - family: Coux
+      given: Camille
+    - family: Dehling
+      given: D. Matthias
+  container-title: Food Webs
+  DOI: 10.1016/j.fooweb.2018.e00093
+  ISSN: '23522496'
+  issued:
+    - year: 2018
+      month: 9
+  language: en
+  page: e00093
+  source: Crossref
+  title: A review of species role concepts in food webs
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S2352249617300381'
+  volume: '16'
+
+- id: clark_more_2014
+  abstract: >-
+    The perceived threat of climate change is often evaluated from species
+    distribution models that are fitted to many species independently and then
+    added together. This approach ignores the fact that species are jointly
+    distributed and limit one another. Species respond to the same underlying
+    climatic variables, and the abundance of any one species can be constrained
+    by competition; a large increase in one is inevitably linked to declines of
+    others. Omitting this basic relationship explains why responses modeled
+    independently do not agree with the species richness or basal areas of
+    actual forests.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 4
+  author:
+    - family: Clark
+      given: James S.
+    - family: Gelfand
+      given: Alan E.
+    - family: Woodall
+      given: Christopher W.
+    - family: Zhu
+      given: Kai
+  container-title: Ecological Applications
+  DOI: 10.1890/13-1015.1
+  ISSN: 1051-0761
+  issue: '5'
+  issued:
+    - year: 2014
+      month: 7
+  language: en
+  page: 990-999
+  source: Crossref
+  title: >-
+    More than the sum of the parts: forest climate response from joint species
+    distribution models
+  title-short: More than the sum of the parts
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1890/13-1015.1'
+  volume: '24'
+
+- id: de_palma_predicting_2016
+  accessed:
+    - year: 2018
+      month: 10
+      day: 30
+  author:
+    - family: De Palma
+      given: Adriana
+    - family: Abrahamczyk
+      given: Stefan
+    - family: Aizen
+      given: Marcelo A.
+    - family: Albrecht
+      given: Matthias
+    - family: Basset
+      given: Yves
+    - family: Bates
+      given: Adam
+    - family: Blake
+      given: Robin J.
+    - family: Boutin
+      given: Céline
+    - family: Bugter
+      given: Rob
+    - family: Connop
+      given: Stuart
+    - family: Cruz-López
+      given: Leopoldo
+    - family: Cunningham
+      given: Saul A.
+    - family: Darvill
+      given: Ben
+    - family: Diekötter
+      given: Tim
+    - family: Dorn
+      given: Silvia
+    - family: Downing
+      given: Nicola
+    - family: Entling
+      given: Martin H.
+    - family: Farwig
+      given: Nina
+    - family: Felicioli
+      given: Antonio
+    - family: Fonte
+      given: Steven J.
+    - family: Fowler
+      given: Robert
+    - family: Franzén
+      given: Markus
+    - family: Goulson
+      given: Dave
+    - family: Grass
+      given: Ingo
+    - family: Hanley
+      given: Mick E.
+    - family: Hendrix
+      given: Stephen D.
+    - family: Herrmann
+      given: Farina
+    - family: Herzog
+      given: Felix
+    - family: Holzschuh
+      given: Andrea
+    - family: Jauker
+      given: Birgit
+    - family: Kessler
+      given: Michael
+    - family: Knight
+      given: M. E.
+    - family: Kruess
+      given: Andreas
+    - family: Lavelle
+      given: Patrick
+    - family: Le Féon
+      given: Violette
+    - family: Lentini
+      given: Pia
+    - family: Malone
+      given: Louise A.
+    - family: Marshall
+      given: Jon
+    - family: Pachón
+      given: Eliana Martínez
+    - family: McFrederick
+      given: Quinn S.
+    - family: Morales
+      given: Carolina L.
+    - family: Mudri-Stojnic
+      given: Sonja
+    - family: Nates-Parra
+      given: Guiomar
+    - family: Nilsson
+      given: Sven G.
+    - family: Öckinger
+      given: Erik
+    - family: Osgathorpe
+      given: Lynne
+    - family: Parra-H
+      given: Alejandro
+    - family: Peres
+      given: Carlos A.
+    - family: Persson
+      given: Anna S.
+    - family: Petanidou
+      given: Theodora
+    - family: Poveda
+      given: Katja
+    - family: Power
+      given: Eileen F.
+    - family: Quaranta
+      given: Marino
+    - family: Quintero
+      given: Carolina
+    - family: Rader
+      given: Romina
+    - family: Richards
+      given: Miriam H.
+    - family: Roulston
+      given: T’ai
+    - family: Rousseau
+      given: Laurent
+    - family: Sadler
+      given: Jonathan P.
+    - family: Samnegård
+      given: Ulrika
+    - family: Schellhorn
+      given: Nancy A.
+    - family: Schüepp
+      given: Christof
+    - family: Schweiger
+      given: Oliver
+    - family: Smith-Pardo
+      given: Allan H.
+    - family: Steffan-Dewenter
+      given: Ingolf
+    - family: Stout
+      given: Jane C.
+    - family: Tonietto
+      given: Rebecca K.
+    - family: Tscharntke
+      given: Teja
+    - family: Tylianakis
+      given: Jason M.
+    - family: Verboven
+      given: Hans A. F.
+    - family: Vergara
+      given: Carlos H.
+    - family: Verhulst
+      given: Jort
+    - family: Westphal
+      given: Catrin
+    - family: Yoon
+      given: Hyung Joo
+    - family: Purvis
+      given: Andy
+  container-title: Scientific Reports
+  DOI: 10.1038/srep31153
+  ISSN: 2045-2322
+  issue: '1'
+  issued:
+    - year: 2016
+      month: 11
+  language: en
+  source: Crossref
+  title: >-
+    Predicting bee community responses to land-use changes: Effects of
+    geographic and taxonomic biases
+  title-short: Predicting bee community responses to land-use changes
+  type: article-journal
+  URL: 'http://www.nature.com/articles/srep31153'
+  volume: '6'
+
+- id: devictor_defining_2010
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Devictor
+      given: Vincent
+    - family: Clavel
+      given: Joanne
+    - family: Julliard
+      given: Romain
+    - family: Lavergne
+      given: Sébastien
+    - family: Mouillot
+      given: David
+    - family: Thuiller
+      given: Wilfried
+    - family: Venail
+      given: Patrick
+    - family: Villéger
+      given: Sébastien
+    - family: Mouquet
+      given: Nicolas
+  container-title: Journal of Applied Ecology
+  DOI: 10.1111/j.1365-2664.2009.01744.x
+  ISSN: '00218901, 13652664'
+  issue: '1'
+  issued:
+    - year: 2010
+      month: 2
+  language: en
+  page: 15-25
+  source: Crossref
+  title: Defining and measuring ecological specialization
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1365-2664.2009.01744.x'
+  volume: '47'
+
+- id: devoto_patterns_2005
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Devoto
+      given: Mariano
+    - family: Medan
+      given: Diego
+    - family: Montaldo
+      given: Norberto H.
+  container-title: Oikos
+  DOI: 10.1111/j.0030-1299.2005.13712.x
+  ISSN: '00301299, 16000706'
+  issue: '3'
+  issued:
+    - year: 2005
+      month: 6
+  language: en
+  page: 461-472
+  source: Crossref
+  title: >-
+    Patterns of interaction between plants and pollinators along an
+    environmental gradient
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.0030-1299.2005.13712.x'
+  volume: '109'
+
+- id: donoso_complementary_2017
+  accessed:
+    - year: 2019
+      month: 7
+      day: 25
+  author:
+    - family: Donoso
+      given: Isabel
+    - family: García
+      given: Daniel
+    - family: Martínez
+      given: Daniel
+    - family: Tylianakis
+      given: Jason M.
+    - family: Stouffer
+      given: Daniel B.
+  container-title: Frontiers in Ecology and Evolution
+  DOI: 10.3389/fevo.2017.00133
+  ISSN: 2296-701X
+  issued:
+    - year: 2017
+      month: 11
+      day: 2
+  language: en
+  source: Crossref
+  title: >-
+    Complementary Effects of Species Abundances and Ecological Neighborhood on
+    the Occurrence of Fruit-Frugivore Interactions
+  type: article-journal
+  URL: 'http://journal.frontiersin.org/article/10.3389/fevo.2017.00133/full'
+  volume: '5'
+
+- id: dormann_biotic_2018
+  abstract: >-
+    Aim: Recent studies increasingly use statistical methods to infer biotic
+    interactions from cooccurrence information at a large spatial scale.
+    However, disentangling biotic interactions from other factors that can
+    affect cooccurrence patterns at the macroscale is a major challenge.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 8
+  author:
+    - family: Dormann
+      given: Carsten F.
+    - family: Bobrowski
+      given: Maria
+    - family: Dehling
+      given: D. Matthias
+    - family: Harris
+      given: David J.
+    - family: Hartig
+      given: Florian
+    - family: Lischke
+      given: Heike
+    - family: Moretti
+      given: Marco D.
+    - family: Pagel
+      given: Jörn
+    - family: Pinkert
+      given: Stefan
+    - family: Schleuning
+      given: Matthias
+    - family: Schmidt
+      given: Susanne I.
+    - family: Sheppard
+      given: Christine S.
+    - family: Steinbauer
+      given: Manuel J.
+    - family: Zeuss
+      given: Dirk
+    - family: Kraan
+      given: Casper
+  container-title: Global Ecology and Biogeography
+  DOI: 10.1111/geb.12759
+  ISSN: 1466822X
+  issued:
+    - year: 2018
+      month: 7
+      day: 24
+  language: en
+  source: Crossref
+  title: >-
+    Biotic interactions in species distribution modelling: 10 questions to guide
+    interpretation and avoid false conclusions
+  title-short: Biotic interactions in species distribution modelling
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/geb.12759'
+
+- id: dormann_methods_2007
+  accessed:
+    - year: 2020
+      month: 5
+      day: 12
+  author:
+    - family: Dormann
+      given: Carsten F
+    - family: McPherson
+      given: Jana M
+    - family: Araújo
+      given: Miguel B
+    - family: Bivand
+      given: Roger
+    - family: Bolliger
+      given: Janine
+    - family: Carl
+      given: Gudrun
+    - family: Davies
+      given: Richard G
+    - family: Hirzel
+      given: Alexandre
+    - family: Jetz
+      given: Walter
+    - family: Daniel Kissling
+      given: W
+    - family: Kühn
+      given: Ingolf
+    - family: Ohlemüller
+      given: Ralf
+    - family: Peres-Neto
+      given: Pedro R
+    - family: Reineking
+      given: Björn
+    - family: Schröder
+      given: Boris
+    - family: M. Schurr
+      given: Frank
+    - family: Wilson
+      given: Robert
+  container-title: Ecography
+  DOI: 10.1111/j.2007.0906-7590.05171.x
+  ISSN: 09067590
+  issue: '5'
+  issued:
+    - year: 2007
+      month: 10
+  language: en
+  page: 609-628
+  source: Crossref
+  title: >-
+    Methods to account for spatial autocorrelation in the analysis of species
+    distributional data: a review
+  title-short: >-
+    Methods to account for spatial autocorrelation in the analysis of species
+    distributional data
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.2007.0906-7590.05171.x'
+  volume: '30'
+
+- id: dray_ade4_2007
+  abstract: >-
+    Multivariate analyses are well known and widely used to identify and
+    understand structures of ecological communities. The ade4 package for the R
+    statistical environment proposes a great number of multivariate methods. Its
+    implementation follows the tradition of the French school of ”Analyse des
+    Donn´ees” and is based on the use of the duality diagram. We present the
+    theory of the duality diagram and discuss its implementation in ade4.
+    Classes and main functions are presented. An example is given to illustrate
+    the ade4 philosophy.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 20
+  author:
+    - family: Dray
+      given: Stéphane
+    - family: Dufour
+      given: Anne-Béatrice
+  container-title: Journal of Statistical Software
+  container-title-short: J. Stat. Soft.
+  DOI: 10.18637/jss.v022.i04
+  ISSN: 1548-7660
+  issue: '4'
+  issued:
+    - year: 2007
+  language: en
+  source: DOI.org (Crossref)
+  title: 'The ade4 package: implementing the duality diagram for ecologists'
+  title-short: The **ade4** Package
+  type: article-journal
+  URL: 'http://www.jstatsoft.org/v22/i04/'
+  volume: '22'
+
+- id: dray_testing_2008
+  abstract: >-
+    Functional ecology aims at determining the relationships between species
+    traits and environmental variables in order to better understand biological
+    processes in ecosystems. From a methodological point of view, this
+    biological objective calls for a method linking three data matrix tables: a
+    table L with abundance or presence–absence values for species at a series of
+    sites, a table R with variables describing the environmental conditions of
+    the sites, and a table Q containing traits (e.g., morphological or
+    behavioral attributes) of the species. Ten years ago, the fourth-corner
+    method was proposed to measure and test the relationships between species
+    traits and environmental variables using tables R, L, and Q simultaneously.
+    In practice, this method is rarely used. The major reasons for this lack of
+    interest are the restriction of the original method and program to
+    presence–absence data in L and to the analysis of a single trait and a
+    single environmental variable at a time. Moreover, ecologists often have
+    problems in choosing a permutation model among the four originally proposed.
+    In this paper, we revisit the fourth-corner method and propose improvements
+    to the original approach. First, we present an extension to measure the link
+    between species traits and environmental variables when the ecological
+    community is described by abundance data. A new multivariate fourth-corner
+    statistic is also proposed. Then, using numerical simulations, we discuss
+    and evaluate the existing testing procedures. A new two-step testing
+    procedure is presented. We hope that these elements will help ecologists use
+    the best possible methodology to analyze this type of ecological problem.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 11
+  author:
+    - family: Dray
+      given: Stéphane
+    - family: Legendre
+      given: Pierre
+  container-title: Ecology
+  container-title-short: Ecology
+  DOI: 10.1890/08-0349.1
+  ISSN: 0012-9658
+  issue: '12'
+  issued:
+    - year: 2008
+      month: 12
+  language: en
+  page: 3400-3412
+  source: DOI.org (Crossref)
+  title: >-
+    Testing the species traits-environment relationship: the fourth-corner
+    problem revisited
+  title-short: TESTING THE SPECIES TRAITS–ENVIRONMENT RELATIONSHIPS
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1890/08-0349.1'
+  volume: '89'
+
+- id: dunn_randomized_1996
+  author:
+    - family: Dunn
+      given: Peter K
+    - family: Smyth
+      given: Gordon K
+  container-title: Journal of Computational and Graphical Statistics
+  issue: '3'
+  issued:
+    - year: 1996
+      month: 9
+  language: en
+  page: 236-244
+  source: Zotero
+  title: Randomized Quantile Residuals
+  type: article-journal
+  URL: 'URL: https://www.jstor.org/stable/1390802'
+  volume: '5'
+
+- id: dupont_spatio-temporal_2009
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Dupont
+      given: Yoko L.
+    - family: Padrón
+      given: Benigno
+    - family: Olesen
+      given: Jens M.
+    - family: Petanidou
+      given: Theodora
+  container-title: Oikos
+  DOI: 10.1111/j.1600-0706.2009.17594.x
+  ISSN: '00301299, 16000706'
+  issue: '8'
+  issued:
+    - year: 2009
+      month: 8
+  language: en
+  page: 1261-1269
+  source: Crossref
+  title: Spatio-temporal variation in the structure of pollination networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1600-0706.2009.17594.x'
+  volume: '118'
+
+- id: elith_species_2009
+  abstract: >-
+    Species distribution models (SDMs) are numerical tools that combine
+    observations of species occurrence or abundance with environmental
+    estimates. They are used to gain ecological and evolutionary insights and to
+    predict distributions across landscapes, sometimes requiring extrapolation
+    in space and time. SDMs are now widely used across terrestrial, freshwater,
+    and marine realms. Differences in methods between disciplines reﬂect both
+    differences in species mobility and in “established use.” Model realism and
+    robustness is inﬂuenced by selection of relevant predictors and modeling
+    method, consideration of scale, how the interplay between environmental and
+    geographic factors is handled, and the extent of extrapolation. Current
+    linkages between SDM practice and ecological theory are often weak,
+    hindering progress. Remaining challenges include: improvement of methods for
+    modeling presence-only data and for model selection and evaluation;
+    accounting for biotic interactions; and assessing model uncertainty.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 12
+  author:
+    - family: Elith
+      given: Jane
+    - family: Leathwick
+      given: John R.
+  container-title: 'Annual Review of Ecology, Evolution, and Systematics'
+  DOI: 10.1146/annurev.ecolsys.110308.120159
+  ISSN: '1543-592X, 1545-2069'
+  issue: '1'
+  issued:
+    - year: 2009
+      month: 12
+  language: en
+  page: 677-697
+  source: Crossref
+  title: >-
+    Species Distribution Models: Ecological Explanation and Prediction Across
+    Space and Time
+  title-short: Species Distribution Models
+  type: article-journal
+  URL: 'http://www.annualreviews.org/doi/10.1146/annurev.ecolsys.110308.120159'
+  volume: '40'
+
+- id: epskamp_gaussian_2018
+  abstract: >-
+    We discuss the Gaussian graphical model (GGM; an undirected network of
+    partial correlation coefficients) and detail its utility as an exploratory
+    data analysis tool. The GGM shows which variables predict one-another,
+    allows for sparse modeling of covariance structures, and may highlight
+    potential causal relationships between observed variables. We describe the
+    utility in three kinds of psychological data sets: data sets in which
+    consecutive cases are assumed independent (e.g., cross-sectional data),
+    temporally ordered data sets (e.g., n = 1 time series), and a mixture of the
+    2 (e.g., n > 1 time series). In timeseries analysis, the GGM can be used to
+    model the residual structure of a vector-autoregression analysis (VAR), also
+    termed graphical VAR. Two network models can then be obtained: a temporal
+    network and a contemporaneous network. When analyzing data from multiple
+    subjects, a GGM can also be formed on the covariance structure of stationary
+    means—the between-subjects network. We discuss the interpretation of these
+    models and propose estimation methods to obtain these networks, which we
+    implement in the R packages graphicalVAR and mlVAR. The methods are
+    showcased in two empirical examples, and simulation studies on these methods
+    are included in the supplementary materials.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 15
+  author:
+    - family: Epskamp
+      given: Sacha
+    - family: Waldorp
+      given: Lourens J.
+    - family: Mõttus
+      given: René
+    - family: Borsboom
+      given: Denny
+  container-title: Multivariate Behavioral Research
+  DOI: 10.1080/00273171.2018.1454823
+  ISSN: '0027-3171, 1532-7906'
+  issued:
+    - year: 2018
+      month: 4
+      day: 16
+  language: en
+  page: 1-28
+  source: Crossref
+  title: The Gaussian Graphical Model in Cross-Sectional and Time-Series Data
+  type: article-journal
+  URL: 'https://www.tandfonline.com/doi/full/10.1080/00273171.2018.1454823'
+
+- id: fick_worldclim_2017
+  abstract: >-
+    We created a new dataset of spatially interpolated monthly climate data for
+    global land areas at a very high spatial resolution (approximately 1 km2).
+    We included monthly temperature (minimum, maximum and average),
+    precipitation, solar radiation, vapour pressure and wind speed, aggregated
+    across a target temporal range of 1970–2000, using data from between 9000
+    and 60 000 weather stations. Weather station data were interpolated using
+    thin-plate splines with covariates including elevation, distance to the
+    coast and three satellite-derived covariates: maximum and minimum land
+    surface temperature as well as cloud cover, obtained with the MODIS
+    satellite platform. Interpolation was done for 23 regions of varying size
+    depending on station density. Satellite data improved prediction accuracy
+    for temperature variables 5–15% (0.07–0.17 ∘C), particularly for areas with
+    a low station density, although prediction error remained high in such
+    regions for all climate variables. Contributions of satellite covariates
+    were mostly negligible for the other variables, although their importance
+    varied by region. In contrast to the common approach to use a single model
+    formulation for the entire world, we constructed the final product by
+    selecting the best performing model for each region and variable. Global
+    cross-validation correlations were ≥ 0.99 for temperature and humidity, 0.86
+    for precipitation and 0.76 for wind speed. The fact that most of our climate
+    surface estimates were only marginally improved by use of satellite
+    covariates highlights the importance having a dense, high-quality network of
+    climate station data.
+  accessed:
+    - year: 2019
+      month: 6
+      day: 19
+  author:
+    - family: Fick
+      given: Stephen E.
+    - family: Hijmans
+      given: Robert J.
+  container-title: International Journal of Climatology
+  DOI: 10.1002/joc.5086
+  ISSN: 08998418
+  issue: '12'
+  issued:
+    - year: 2017
+      month: 10
+  language: en
+  page: 4302-4315
+  source: Crossref
+  title: >-
+    WorldClim 2: new 1-km spatial resolution climate surfaces for global land
+    areas: new climate surfaces for global land areas
+  title-short: WorldClim 2
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1002/joc.5086'
+  volume: '37'
+
+- id: fortuna_web_2014
+  abstract: >-
+    The Web of Life (www.web-of-life.es) provides a graphical user interface,
+    based on Google Maps, for easily visualizing and downloading data on
+    ecological networks of species interactions. It is designed and implemented
+    in a relational database management system, allowing sophisticated and
+    user-friendly searching across networks. Users can access the database by
+    any web browser using a variety of operating systems. Data can be downloaded
+    in several common formats, and a data transmission webservice in JavaScript
+    Object Notation is also provided.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 27
+  author:
+    - family: Fortuna
+      given: Miguel A.
+    - family: Ortega
+      given: Raul
+    - family: Bascompte
+      given: Jordi
+  container-title: 'arXiv:1403.2575 [q-bio]'
+  issued:
+    - year: 2014
+      month: 3
+      day: 11
+  language: en
+  source: arXiv.org
+  title: The Web of Life
+  type: article-journal
+  URL: 'http://arxiv.org/abs/1403.2575'
+
+- id: gaiarsa_interaction_2019
+  author:
+    - family: Gaiarsa
+      given: Marilia P.
+    - family: Kremen
+      given: Claire
+    - family: Ponisio
+      given: Lauren C.
+  container-title: Manuscript submitted for publication
+  issued:
+    - year: 2019
+  language: en
+  page: '15'
+  source: Zotero
+  title: Interaction ﬂexibility predicts pollinator population dynamics
+  type: article-journal
+
+- id: godsoe_integrating_2017
+  accessed:
+    - year: 2018
+      month: 10
+      day: 11
+  author:
+    - family: Godsoe
+      given: William
+    - family: Jankowski
+      given: Jill
+    - family: Holt
+      given: Robert D.
+    - family: Gravel
+      given: Dominique
+  container-title: Trends in Ecology & Evolution
+  DOI: 10.1016/j.tree.2017.03.008
+  ISSN: 01695347
+  issue: '7'
+  issued:
+    - year: 2017
+      month: 7
+  language: en
+  page: 488-499
+  source: Crossref
+  title: Integrating Biogeography with Contemporary Niche Theory
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0169534717300836'
+  volume: '32'
+
+- id: gravel_bringing_2018
+  abstract: >-
+    Biogeography has traditionally focused on the spatial distribution and
+    abundance of species. Both are driven by the way species interact with one
+    another, but also by the way these interactions vary across time and space.
+    Here, we call for an integrated approach, adopting the view that community
+    structure is best represented as a network of ecological interactions, and
+    show how it translates to biogeography questions. We propose that the
+    ecological niche should encompass the effect of the environment on species
+    distribution (the Grinnellian dimension of the niche) and on the ecological
+    interactions among them (the Eltonian dimension). Starting from this
+    concept, we develop a quantitative theory to explain turnover of
+    interactions in space and time i.e. a novel approach to interaction
+    distribution modelling. We apply this framework to host parasite
+    interactions across Europe and find that two aspects of the environment
+    (temperature and precipitation) exert a strong imprint on species
+    co-occurrence, but not on species interactions. Even where species co-occur,
+    interaction proves to be stochastic rather than deterministic, adding to
+    variation in realized network structure. We also find that a large majority
+    of host-parasite pairs are never found together, thus precluding any
+    inferences regarding their probability to interact. This first attempt to
+    explain variation of network structure at large spatial scales opens new
+    perspectives at the interface of species distribution modelling and
+    community ecology.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 8
+  author:
+    - family: Gravel
+      given: Dominique
+    - family: Baiser
+      given: Benjamin
+    - family: Dunne
+      given: Jennifer A
+    - family: Kopelke
+      given: Jens-Peter
+    - family: Martinez
+      given: Neo D
+    - family: Nyman
+      given: Tommi
+    - family: Poisot
+      given: Timothee
+    - family: Stouffer
+      given: Daniel B.
+    - family: Tylianakis
+      given: Jason M.
+    - family: Wood
+      given: Spencer A
+    - family: Roslin
+      given: Tomas
+  container-title: Ecography
+  DOI: 10.1111/ecog.04006
+  issued:
+    - year: 2018
+  language: en
+  page: 1-15
+  source: DataCite
+  title: >-
+    Bringing Elton and Grinnell together: a quantitative framework to represent
+    the biogeography of ecological interaction networks
+  title-short: Bringing Elton and Grinnell together
+  type: article-journal
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.04006'
+  volume: '41'
+
+- id: hijmans_raster_2019
+  author:
+    - family: Hijmans
+      given: Robert J.
+  issued:
+    - year: 2019
+  note: R package version 2.8-19
+  title: 'Raster: geographic data analysis and modeling'
+  type: book
+  URL: 'https://CRAN.R-project.org/package=raster'
+
+- id: hirzel_ecological-niche_2002
+  abstract: >-
+    We propose a multivariate approach to the study of geographic species
+    distribution which does not require absence data. Building on Hutchinson’s
+    concept of the ecological niche, this factor analysis compares, in the
+    multidimensional space of ecological variables, the distribution of the
+    localities where the focal species was observed to a reference set
+    describing the whole study area. The ﬁrst factor extracted maximizes the
+    marginality of the focal species, deﬁned as the ecological distance between
+    the species optimum and the mean habitat within the reference area. The
+    other factors maximize the specialization of this focal species, deﬁned as
+    the ratio of the ecological variance in mean habitat to that observed for
+    the focal species. Eigenvectors and eigenvalues are readily interpreted and
+    can be used to build habitat-suitability maps. This approach is recommended
+    in situations where absence data are not available (many data banks),
+    unreliable (most cryptic or rare species), or meaningless (invaders). We
+    provide an illustration and validation of the method for the alpine ibex, a
+    species reintroduced in Switzerland which presumably has not yet recolonized
+    its entire range.
+  author:
+    - family: Hirzel
+      given: A H
+    - family: Hausser
+      given: J
+    - family: Chessel
+      given: D
+    - family: Perrin
+      given: 'N'
+  issue: '7'
+  issued:
+    - year: 2002
+  language: en
+  page: '10'
+  source: Zotero
+  title: >-
+    Ecological-niche factor analysis: how to compute habitat-suitability maps
+    without absence data?
+  type: article-journal
+  volume: '83'
+
+- id: hoiss_altitude_2012
+  accessed:
+    - year: 2019
+      month: 9
+      day: 1
+  author:
+    - family: Hoiss
+      given: Bernhard
+    - family: Krauss
+      given: Jochen
+    - family: Potts
+      given: Simon G.
+    - family: Roberts
+      given: Stuart
+    - family: Steffan-Dewenter
+      given: Ingolf
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  container-title-short: Proc. R. Soc. B
+  DOI: 10.1098/rspb.2012.1581
+  ISSN: '0962-8452, 1471-2954'
+  issue: '1746'
+  issued:
+    - year: 2012
+      month: 11
+      day: 7
+  language: en
+  page: 4447-4456
+  source: DOI.org (Crossref)
+  title: >-
+    Altitude acts as an environmental filter on phylogenetic composition, traits
+    and diversity in bee communities
+  type: article-journal
+  URL: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2012.1581'
+  volume: '279'
+
+- id: hoiss_interactive_2015
+  abstract: >-
+    Plant–pollinator interactions are essential for the functioning of
+    terrestrial ecosystems, but are increasingly affected by global change. The
+    risks to such mutualistic interactions from increasing temperature and more
+    frequent extreme climatic events such as drought or advanced snow melt are
+    assumed to depend on network specialization, species richness, local climate
+    and associated parameters such as the amplitude of extreme events. Even
+    though elevational gradients provide valuable model systems for climate
+    change and are accompanied by changes in species richness, responses of
+    plant–pollinator networks to climatic extreme events under different
+    environmental and biotic conditions are currently unknown. Here, we show
+    that elevational climatic gradients, species richness and experimentally
+    simulated extreme events interactively change the structure of mutualistic
+    networks in alpine grasslands. We found that the degree of specialization in
+    plant–pollinator networks (H20) decreased with elevation. Nonetheless,
+    network specialization increased after advanced snow melt at high
+    elevations, whereas changes in network specialization after drought were
+    most pronounced at sites with low species richness. Thus, changes in network
+    specialization after extreme climatic events depended on climatic context
+    and were buffered by high species richness. In our experiment, only
+    generalized plant–pollinator networks changed in their degree of
+    specialization after climatic extreme events. This indicates that contrary
+    to our assumptions, network generalization may not always foster stability
+    of mutualistic interaction networks.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 1
+  author:
+    - family: Hoiss
+      given: Bernhard
+    - family: Krauss
+      given: Jochen
+    - family: Steffan-Dewenter
+      given: Ingolf
+  container-title: Global Change Biology
+  container-title-short: Glob Change Biol
+  DOI: 10.1111/gcb.12968
+  ISSN: '13541013'
+  issue: '11'
+  issued:
+    - year: 2015
+      month: 11
+  language: en
+  page: 4086-4097
+  source: DOI.org (Crossref)
+  title: >-
+    Interactive effects of elevation, species richness and extreme climatic
+    events on plant-pollinator networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/gcb.12968'
+  volume: '21'
+
+- id: hutchinson_cophylogenetic_2017
+  abstract: >-
+    That evolutionary history can influence the way that species interact is a
+    basic tenet of evolutionary ecology. However, when the role of evolution in
+    determining ecological interactions is investigated, focus typically centers
+    on just one side of the interaction. A cophylogenetic signal, the congruence
+    of evolutionary history across both sides of an ecological interaction,
+    extends these previous explorations and provides a more complete picture of
+    how evolutionary patterns influence the way species interact. To date,
+    cophylogenetic signal has most typically been studied in interactions that
+    occur between fine taxonomic clades that show high intimacy. In this study,
+    we took an alternative approach and made an exhaustive assessment of
+    cophylogeny in pollination interactions. To do so, we assessed the strength
+    of cophylogenetic signal at four distinct scales of pollination interaction:
+    (1) across plant–pollinator associations globally, (2) in local pollination
+    communities, (3) within the modular structure of those communities, and (4)
+    in individual modules. We did so using a globally distributed dataset
+    comprised of 54 pollination networks, over 4000 species, and over 12,000
+    interactions. Within these data, we detected cophylogenetic signal at all
+    four scales. Cophylogenetic signal was found at the level of
+    plant–pollinator interactions on a global scale and in the majority of
+    pollination communities. At the scale defined by the modular structure
+    within those communities, however, we observed a much weaker cophylogenetic
+    signal. Cophylogenetic signal was detectable in a significant proportion of
+    individual modules and most typically when withinmodule phylogenetic
+    diversity was low. In sum, the detection of cophylogenetic signal in
+    pollination interactions across scales provides a new dimension to the story
+    of how past evolution shapes extant pollinator–angiosperm interactions.
+  accessed:
+    - year: 2019
+      month: 3
+      day: 25
+  author:
+    - family: Hutchinson
+      given: Matthew C.
+    - family: Cagua
+      given: E. Fernando
+    - family: Stouffer
+      given: Daniel B.
+  container-title: Ecology
+  DOI: 10.1002/ecy.1955
+  ISSN: 00129658
+  issue: '10'
+  issued:
+    - year: 2017
+      month: 10
+  language: en
+  page: 2640-2652
+  source: Crossref
+  title: >-
+    Cophylogenetic signal is detectable in pollination interactions across
+    ecological scales
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1002/ecy.1955'
+  volume: '98'
+
+- id: jetz_essential_2019
+  accessed:
+    - year: 2019
+      month: 11
+      day: 17
+  author:
+    - family: Jetz
+      given: Walter
+    - family: McGeoch
+      given: Melodie A.
+    - family: Guralnick
+      given: Robert
+    - family: Ferrier
+      given: Simon
+    - family: Beck
+      given: Jan
+    - family: Costello
+      given: Mark J.
+    - family: Fernandez
+      given: Miguel
+    - family: Geller
+      given: Gary N.
+    - family: Keil
+      given: Petr
+    - family: Merow
+      given: Cory
+    - family: Meyer
+      given: Carsten
+    - family: Muller-Karger
+      given: Frank E.
+    - family: Pereira
+      given: Henrique M.
+    - family: Regan
+      given: Eugenie C.
+    - family: Schmeller
+      given: Dirk S.
+    - family: Turak
+      given: Eren
+  container-title: Nature Ecology & Evolution
+  container-title-short: Nat Ecol Evol
+  DOI: 10.1038/s41559-019-0826-1
+  ISSN: 2397-334X
+  issue: '4'
+  issued:
+    - year: 2019
+      month: 4
+  language: en
+  page: 539-551
+  source: DOI.org (Crossref)
+  title: >-
+    Essential biodiversity variables for mapping and monitoring species
+    populations
+  type: article-journal
+  URL: 'http://www.nature.com/articles/s41559-019-0826-1'
+  volume: '3'
+
+- id: kaiser-bunbury_robustness_2010
+  abstract: >-
+    Species extinctions pose serious threats to the functioning of ecological
+    communities worldwide. We used two qualitative and quantitative pollination
+    networks to simulate extinction patterns following three removal scenarios:
+    random removal and systematic removal of the strongest and weakest
+    interactors. We accounted for pollinator behaviour by including potential
+    links into temporal snapshots (12 consecutive 2-week networks) to reﬂect
+    mutualistsÕ ability to ÔswitchÕ interaction partners (re-wiring).
+    Qualitative data suggested a linear or slower than linear secondary
+    extinction while quantitative data showed sigmoidal decline of plant
+    interaction strength upon removal of the strongest interactor. Temporal
+    snapshots indicated greater stability of re-wired networks over static
+    systems. Tolerance of generalized networks to species extinctions was high
+    in the random removal scenario, with an increase in network stability if
+    species formed new interactions. Anthropogenic disturbance, however, that
+    promote the extinction of the strongest interactors might induce a sudden
+    collapse of pollination networks.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 15
+  author:
+    - family: Kaiser-Bunbury
+      given: Christopher N.
+    - family: Muff
+      given: Stefanie
+    - family: Memmott
+      given: Jane
+    - family: Müller
+      given: Christine B.
+    - family: Caflisch
+      given: Amedeo
+  container-title: Ecology Letters
+  DOI: 10.1111/j.1461-0248.2009.01437.x
+  ISSN: '1461023X, 14610248'
+  issue: '4'
+  issued:
+    - year: 2010
+      month: 4
+  language: en
+  page: 442-452
+  source: Crossref
+  title: >-
+    The robustness of pollination networks to the loss of species and
+    interactions: a quantitative approach incorporating pollinator behaviour
+  title-short: >-
+    The robustness of pollination networks to the loss of species and
+    interactions
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1461-0248.2009.01437.x'
+  volume: '13'
+
+- id: laliberte_cascading_2012
+  abstract: >-
+    There is much concern that the functioning of ecosystems will be affected by
+    human-induced changes in biodiversity, of which land-use change is the most
+    important driver. However, changes in biodiversity may be only one of many
+    pathways through which land use alters ecosystem functioning, and its
+    importance relative to other pathways remains unclear. In particular,
+    although biodiversity–ecosystem function research has focused primarily on
+    grasslands, the increases in agricultural inputs (e.g., fertilization,
+    irrigation) and grazing pressure that drive change in grasslands worldwide
+    have been largely ignored. Here we show that long-term (27-year)
+    manipulations of soil resource availability and sheep grazing intensity
+    caused marked, consistent shifts in grassland plant functional composition
+    and diversity, with cascading (i.e., causal chains of ) direct, indirect,
+    and interactive effects on multiple ecosystem functions. Resource
+    availability exerted dominant control over aboveground net primary
+    production (ANPP), both directly and indirectly via shifts in plant
+    functional composition. Importantly, the effects of plant functional
+    diversity and grazing intensity on ANPP shifted from negative to positive as
+    agricultural inputs increased, providing strong evidence that soil resource
+    availability modulates the impacts of plant diversity and herbivory on
+    primary production. These changes in turn altered litter decomposition and,
+    ultimately, soil carbon sequestration, highlighting the relevance of ANPP as
+    a key integrator of ecosystem functioning. Our study reveals how human
+    alterations of bottom-up (resources) and top-down (herbivory) forces
+    together interact to control the functioning of grazing systems, the most
+    extensive land use on Earth.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Laliberté
+      given: Etienne
+    - family: Tylianakis
+      given: Jason M.
+  container-title: Ecology
+  DOI: 10.1890/11-0338.1
+  ISSN: 0012-9658
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 1
+  language: en
+  page: 145-155
+  source: Crossref
+  title: >-
+    Cascading effects of long-term land-use changes on plant traits and
+    ecosystem functioning
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1890/11-0338.1'
+  volume: '93'
+
+- id: lavandero_genotype_2013
+  abstract: >-
+    Food webs typically quantify interactions between species, whereas evolution
+    operates through the success of alleles within populations of a single
+    species. To bridge this gap, we quantify genotypic interaction networks
+    among individuals of a single specialized parasitoid species and its
+    obligate to cyclically parthenogenetic aphid host along a climatic gradient.
+    As a case study for the kinds of questions genotype food webs could be used
+    to answer, we show that genetically similar parasitoids became more likely
+    to attack genetically similar hosts in warmer sites (i.e. there was
+    network-wide congruence between the within-species shared allelic distance
+    of the parasitoid and that of its host). Narrowing of host-genotype-niche
+    breadth by parasitoids could reduce resilience of the network to changes in
+    host genetic structure or invasion by novel host genotypes and inhibit
+    biological control. Thus, our approach can be easily used to detect changes
+    to sub-species-level food webs, which may have important ecological and
+    evolutionary implications, such as promoting host-race specialization or the
+    accelerated loss of functional diversity following extinctions of closely
+    related genotypes.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 1
+  author:
+    - family: Lavandero
+      given: Blas
+    - family: Tylianakis
+      given: Jason M.
+  container-title: Molecular Ecology
+  container-title-short: Mol Ecol
+  DOI: 10.1111/mec.12100
+  ISSN: 09621083
+  issue: '1'
+  issued:
+    - year: 2013
+      month: 1
+  language: en
+  page: 229-238
+  source: DOI.org (Crossref)
+  title: >-
+    Genotype matching in a parasitoid-host genotypic food web: an approach for
+    measuring effects of environmental change
+  title-short: Genotype matching in a parasitoid-host genotypic food web
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/mec.12100'
+  volume: '22'
+
+- id: manzoor_species_2018
+  accessed:
+    - year: 2019
+      month: 6
+      day: 5
+  author:
+    - family: Manzoor
+      given: Syed Amir
+    - family: Griffiths
+      given: Geoffrey
+    - family: Lukac
+      given: Martin
+  container-title: Scientific Reports
+  DOI: 10.1038/s41598-018-25437-1
+  ISSN: 2045-2322
+  issue: '1'
+  issued:
+    - year: 2018
+      month: 12
+  language: en
+  source: Crossref
+  title: >-
+    Species distribution model transferability and model grain size – finer may
+    not always be better
+  type: article-journal
+  URL: 'http://www.nature.com/articles/s41598-018-25437-1'
+  volume: '8'
+
+- id: martin_gonzalez_centrality_2010
+  abstract: >-
+    Studies of complex networks show that nodes with high centrality scores are
+    important to network structure and stability. Following this rationale,
+    centrality measures can be used to (i) identify keystone species in
+    ecological networks, a major issue in community ecology, and (ii)
+    differentiate the keystone species concept, e.g. species may play a key role
+    in a network for different topological reasons. In 34 pollination
+    communities we examine the relationship between the generalization level of
+    species (ND) and two complementary centrality indices: closeness (CC) and
+    betweenness centrality (BC). CC measures the proximity of a species to all
+    other species in the community, while BC describes the importance of a
+    species as a connector. Most networks had a linear ND–CC relationship with a
+    minimum CC value of 0.41. Hence, species were close to each and will be
+    likely to be rapidly affected by disturbances. Contrarily, in most networks,
+    the ND–BC relationships were power-law distributed with exponents larger
+    than one. Only 59% of the species were connectors (BC > 0). In particular,
+    there was a connector threshold value of ND = 0.46. Species above this
+    threshold represent $40%, almost all of which were connectors. These results
+    indicate that in pollination systems the most generalized species are
+    usually network keystone species, playing at least two roles: (i) interact
+    closely with most other species (high CC) and (ii) connect otherwise
+    unconnected subnetworks (high BC). We discuss the implications of centrality
+    measures to community-based conservation ecology.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 27
+  author:
+    - family: Martín González
+      given: Ana M.
+    - family: Dalsgaard
+      given: Bo
+    - family: Olesen
+      given: Jens M.
+  container-title: Ecological Complexity
+  DOI: 10.1016/j.ecocom.2009.03.008
+  ISSN: 1476945X
+  issue: '1'
+  issued:
+    - year: 2010
+      month: 3
+  language: en
+  page: 36-43
+  source: Crossref
+  title: >-
+    Centrality measures and the importance of generalist species in pollination
+    networks
+  type: article-journal
+  URL: 'http://linkinghub.elsevier.com/retrieve/pii/S1476945X09000294'
+  volume: '7'
+
+- id: maruyama_morphological_2014
+  abstract: >-
+    Complex networks of species interactions might be determined by species
+    traits but also by simple chance meetings governed by species abundances.
+    Although the idea that species traits structure mutualistic networks is
+    appealing, most studies have found abundance to be a major structuring
+    mechanism underlying interaction frequencies. With a well-resolved
+    plant–hummingbird interaction network from the Neotropical savanna in
+    Brazil, we asked whether species morphology, phenology, nectar availability
+    and habitat occupancy and/or abundance best predicted the frequency of
+    interactions. For this, we constructed interaction probability matrices and
+    compared them to the observed plant-hummingbird matrix through a likelihood
+    approach. Furthermore, a recently proposed modularity algorithm for weighted
+    bipartite networks was employed to evaluate whether these factors also
+    scale-up to the formation of modules in the network. Interaction frequencies
+    were best predicted by species morphology, phenology and habitat occupancy,
+    while species abundances and nectar availability performed poorly. The
+    plant–hummingbird network was modular, and modules were associated to
+    morphological specialization and habitat occupancy. Our ﬁndings highlight
+    the importance of traits as determinants of interaction frequencies and
+    network structure, corroborating the results of a previous study on a
+    plant–hummingbird network from the Brazilian Atlantic Forest. Thus, we
+    propose that traits matter more in tropical plant–hummingbird networks than
+    in less specialized systems. To test the generality of this hypothesis,
+    future research could employ geographic or taxonomic cross-system
+    comparisons contrasting networks with known differences in level of
+    specialization.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 14
+  author:
+    - family: Maruyama
+      given: Pietro Kiyoshi
+    - family: Vizentin-Bugoni
+      given: Jeferson
+    - family: Oliveira
+      given: Genilda M.
+    - family: Oliveira
+      given: Paulo E.
+    - family: Dalsgaard
+      given: Bo
+  container-title: Biotropica
+  container-title-short: Biotropica
+  DOI: 10.1111/btp.12170
+  ISSN: '00063606'
+  issue: '6'
+  issued:
+    - year: 2014
+      month: 11
+  language: en
+  page: 740-747
+  source: DOI.org (Crossref)
+  title: >-
+    Morphological and Spatio-Temporal Mismatches Shape a Neotropical Savanna
+    Plant-Hummingbird Network
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/btp.12170'
+  volume: '46'
+
+- id: mckinnon_lower_2010
+  author:
+    - family: McKinnon
+      given: L.
+    - family: Smith
+      given: P. A.
+    - family: Nol
+      given: E.
+    - family: Martin
+      given: J. L.
+    - family: Doyle
+      given: F. I.
+    - family: Abraham
+      given: K. F.
+    - family: Gilchrist
+      given: H. G.
+    - family: Morrison
+      given: R. I. G.
+    - family: Bêty
+      given: J.
+  container-title: Science
+  issue: '5963'
+  issued:
+    - year: 2010
+  language: en
+  page: 326-327
+  source: Zotero
+  title: Lower Predation Risk for Migratory Birds at High Latitudes
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/40508534'
+  volume: '327'
+
+- id: olesen_strong_2011
+  abstract: >-
+    Nature is organized into complex, dynamical networks of species and their
+    interactions, which may influence diversity and stability. However, network
+    research is, generally, short-term and depict ecological networks as static
+    structures only, devoid of any dynamics. This hampers our understanding of
+    how nature responds to larger disturbances such as changes in climate. In
+    order to remedy this we studied the long-term (12-yrs) dynamics of a
+    flower-visitation network, consisting of flower-visiting butterflies and
+    their nectar plants. Global network properties, i.e. numbers of species and
+    links, as well as connectance, were temporally stable, whereas most species
+    and links showed a strong temporal dynamics. However, species of butterflies
+    and plants varied bimodally in their temporal persistance: Sporadic species,
+    being present only 1–2(-5) years, and stable species, being present
+    (9-)11–12 years, dominated the networks. Temporal persistence and linkage
+    level of species, i.e. number of links to other species, made up two groups
+    of species: Specialists with a highly variable temporal persistence, and
+    temporally stable species with a highly variable linkage level. Turnover of
+    links of specialists was driven by species turnover, whereas turnover of
+    links among generalists took place through rewiring, i.e. by reshuffling
+    existing interactions. However, in spite of this strong internal dynamics of
+    species and links the network appeared overall stable. If this global
+    stability-local instability phenomenon is general, it is a most astonishing
+    feature of ecological networks.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Olesen
+      given: Jens M.
+    - family: Stefanescu
+      given: Constantí
+    - family: Traveset
+      given: Anna
+  container-title: PLoS ONE
+  DOI: 10.1371/journal.pone.0026455
+  editor:
+    - family: Chave
+      given: Jerome
+  ISSN: 1932-6203
+  issue: '11'
+  issued:
+    - year: 2011
+      month: 11
+      day: 17
+  language: en
+  page: e26455
+  source: Crossref
+  title: 'Strong, Long-Term Temporal Dynamics of an Ecological Network'
+  type: article-journal
+  URL: 'https://dx.plos.org/10.1371/journal.pone.0026455'
+  volume: '6'
+
+- id: olesen_temporal_2008
+  abstract: >-
+    Despite a strong current interest in ecological networks, the bulk of
+    studies are static descriptions of the structure of networks, and very few
+    analyze their temporal dynamics. Yet, understanding network dynamics is
+    important in order to relate network patterns to ecological processes. We
+    studied the day-to-day dynamics of an arctic pollination interaction network
+    over two consecutive seasons. First, we found that new species entering the
+    network tend to interact with already well-connected species, although there
+    are deviations from this trend due, for example, to morphological
+    mismatching between plant and pollinator traits and nonoverlapping
+    phenophases of plant and pollinator species. Thus, temporal dynamics
+    provides a mechanistic explanation for previously reported network patterns
+    such as the heterogeneous distribution of number of interactions across
+    species. Second, we looked for the ecological properties most likely to be
+    mediating this dynamical process and found that both abundance and
+    phenophase length were important determinants of the number of links per
+    species.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Olesen
+      given: Jens M.
+    - family: Bascompte
+      given: Jordi
+    - family: Elberling
+      given: Heidi
+    - family: Jordano
+      given: Pedro
+  container-title: Ecology
+  DOI: 10.1890/07-0451.1
+  ISSN: 0012-9658
+  issue: '6'
+  issued:
+    - year: 2008
+      month: 6
+  language: en
+  page: 1573-1582
+  source: Crossref
+  title: Temporal dynamics in a pollination network
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1890/07-0451.1'
+  volume: '89'
+
+- id: olson_global_2002
+  abstract: >-
+    A globalstrategyto conservebiodiversitmy ustaimto
+    protectrepresentativeexamplesofalloftheworld'secosystems, as well as
+    thoseareasthatcontainexceptionacl oncentrationosf
+    speciesandendemics.Althoughlackingthe richness of
+    tropicalforests,deserts,tropicalakes,andsubpolarseas all
+    containdistinctspecies,communitiesa,ndecological phenomenaW.
+    eanalyzedglobalpatternsof biodiversityto identifya set
+    oftheEarth'sterrestrialf,reshwatera,ndmarine
+    ecoregionsthatharborexceptionabl iodiversityandarerepresentativoef its
+    ecosystemsW. eplacedeachof theEarth's ecoregionswithina systemof 30
+    biomesandbiogeographircealmsto facilitatea
+    representatioannalysis.Biodiversity featureswerecomparedamongecoregionsto
+    assess theirirreplaceabilitoyr distinctivenessT. hesefeaturesincluded
+    speciesrichness,endemicspecies,unusualhighertaxa,unusualecologicalor
+    evolutionarpyhenomenaa,ndthe global rarityof habitats.Thisprocessyielded238
+    ecoregions the Global200 comprisedof 142 terrestrial5,3 freshwater, and 43
+    marinepriorityecoregions.Effectiveconservationin this set of
+    ecoregionswouldhelp conservethe most
+    outstandinagndrepresentativheabitatsforbiodiversityon this planet.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 6
+  author:
+    - family: Olson
+      given: David M.
+    - family: Dinerstein
+      given: Eric
+  container-title: Annals of the Missouri Botanical Garden
+  DOI: 10.2307/3298564
+  ISSN: 00266493
+  issue: '2'
+  issued:
+    - year: 21
+    - year: 2002
+  language: en
+  page: '199'
+  source: Crossref
+  title: 'The Global 200: Priority Ecoregions for Global Conservation'
+  title-short: The Global 200
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/3298564?origin=crossref'
+  volume: '89'
+
+- id: orme_distance_2019
+  accessed:
+    - year: 2019
+      month: 7
+      day: 25
+  author:
+    - family: Orme
+      given: C. David L.
+    - family: Mayor
+      given: Sarah
+    - family: Anjos
+      given: Luiz
+      non-dropping-particle: dos
+    - family: Develey
+      given: Pedro F.
+    - family: Hatfield
+      given: Jack H.
+    - family: Morante-Filho
+      given: José Carlos
+    - family: Tylianakis
+      given: Jason M.
+    - family: Uezu
+      given: Alexandre
+    - family: Banks-Leite
+      given: Cristina
+  container-title: Nature Ecology & Evolution
+  DOI: 10.1038/s41559-019-0889-z
+  ISSN: 2397-334X
+  issue: '6'
+  issued:
+    - year: 2019
+      month: 6
+  language: en
+  page: 886-891
+  source: Crossref
+  title: Distance to range edge determines sensitivity to deforestation
+  type: article-journal
+  URL: 'http://www.nature.com/articles/s41559-019-0889-z'
+  volume: '3'
+
+- id: pearce_practical_2001
+  abstract: >-
+    Statistical modelling of species presence/absence data in relation to mapped
+    environmental predictors has been widely used to predict distributions of
+    species for use in regional conservation planning. This paper evaluates the
+    extent to which predictive mapping of habitat suitability might be re®ned by
+    modelling relative abundance or density of a species instead of
+    presence/absence. We use data collected at ®eld survey sites in north-east
+    New South Wales to develop models predicting the abundance of vascular plant
+    and vertebrate fauna species as a function of regional-scale environmental
+    variables. The predictive accuracy of these models is then evaluated using
+    survey data collected at independent evaluation sites. A number of `direct'
+    abundance modelling techniques were evaluated including generalised linear
+    and generalised additive Poisson regression, and zero-in¯ated negative
+    binomial regression. We also evaluated the performance of predicted
+    probability of occurrence generated by logistic regression modelling as an
+    `indirect' index of abundance. Both the direct and indirect modelling
+    techniques generally failed to provide consistently reliable predictions of
+    abundance. Reasonably accurate models were produced for only 12 of the 44
+    species evaluated. A further key ®nding was that, for all 12 of these
+    species, predictions from direct abundance models performed no better as a
+    relative index of abundance than predicted probabilities of occurrence
+    generated by logistic regression modelling. Implications of these results
+    for the use of predictive modelling in regional conservation planning are
+    discussed. # 2001 Elsevier Science Ltd. All rights reserved.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 12
+  author:
+    - family: Pearce
+      given: Jennie
+    - family: Ferrier
+      given: Simon
+  container-title: Biological Conservation
+  DOI: 10.1016/S0006-3207(00)00139-7
+  ISSN: '00063207'
+  issue: '1'
+  issued:
+    - year: 2001
+      month: 3
+  language: en
+  page: 33-43
+  source: Crossref
+  title: >-
+    The practical value of modelling relative abundance of species for regional
+    conservation planning: a case study
+  title-short: >-
+    The practical value of modelling relative abundance of species for regional
+    conservation planning
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0006320700001397'
+  volume: '98'
+
+- id: pellissier_spatial_2010
+  accessed:
+    - year: 2019
+      month: 9
+      day: 1
+  author:
+    - family: Pellissier
+      given: Loïc
+    - family: Pottier
+      given: Julien
+    - family: Vittoz
+      given: Pascal
+    - family: Dubuis
+      given: Anne
+    - family: Guisan
+      given: Antoine
+  container-title: Oikos
+  container-title-short: Oikos
+  DOI: 10.1111/j.1600-0706.2010.18560.x
+  ISSN: 00301299
+  issue: '11'
+  issued:
+    - year: 2010
+      month: 11
+  language: en
+  page: 1805-1813
+  source: DOI.org (Crossref)
+  title: >-
+    Spatial pattern of floral morphology: possible insight into the effects of
+    pollinators on plant distributions
+  title-short: Spatial pattern of floral morphology
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1600-0706.2010.18560.x'
+  volume: '119'
+
+- id: peralta_phylogenetic_2015
+  accessed:
+    - year: 2019
+      month: 7
+      day: 30
+  author:
+    - family: Peralta
+      given: Guadalupe
+    - family: Frost
+      given: Carol M.
+    - family: Didham
+      given: Raphael K.
+    - family: Varsani
+      given: Arvind
+    - family: Tylianakis
+      given: Jason M.
+  container-title: Journal of Animal Ecology
+  DOI: 10.1111/1365-2656.12296
+  editor:
+    - family: Veen
+      given: Frank
+      non-dropping-particle: van
+  ISSN: 00218790
+  issue: '2'
+  issued:
+    - year: 2015
+      month: 3
+  language: en
+  page: 364-372
+  source: Crossref
+  title: >-
+    Phylogenetic diversity and co-evolutionary signals among trophic levels
+    change across a habitat edge
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/1365-2656.12296'
+  volume: '84'
+
+- id: pires_predicted_2016
+  abstract: >-
+    Changes in the distribution of rainfall and the occurrence of extreme rain
+    events will alter the size and persistence of aquatic ecosystems. Such
+    alterations may affect the structure of local aquatic communities in terms
+    of species composition, and by altering species interactions. In many
+    aquatic ecosystems, leaf litter sustains detrital food webs and could
+    regulate the responses of communities to changes in rainfall. Few empirical
+    studies have focused on how rainfall changes will affect aquatic communities
+    and none have evaluated if basal resource diversity can increase resistance
+    to such rainfall effects. In this study, we used water-­holding terrestrial
+    bromeliads, a tropical aquatic ecosystem, to test how predicted rainfall
+    changes and litter diversity may affect community composition and trophic
+    interactions. We used structural equation modeling to investigate the
+    combined effects of rainfall changes and litter diversity on trophic
+    interactions. We demonstrated that changes in rainfall disrupted trophic
+    relationships, even though there were only minor direct effects on species
+    abundance, richness, and community composition. Litter diversity was not
+    able to reduce the impact of changes in rainfall on trophic interactions. We
+    suggest that changes in rainfall can alter the way in which species
+    ­interact with each other, decreasing the linkages among trophic groups.
+    Such reductions in biotic interactions under climate change will have
+    critical consequences for the functioning of tropical aquatic ecosystems.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Pires
+      given: Aliny P. F.
+    - family: Marino
+      given: Nicholas A. C.
+    - family: Srivastava
+      given: Diane S.
+    - family: Farjalla
+      given: Vinicius F.
+  container-title: Ecology
+  DOI: 10.1002/ecy.1501
+  ISSN: 00129658
+  issue: '10'
+  issued:
+    - year: 2016
+      month: 10
+  language: en
+  page: 2750-2759
+  source: Crossref
+  title: >-
+    Predicted rainfall changes disrupt trophic interactions in a tropical
+    aquatic ecosystem
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1002/ecy.1501'
+  volume: '97'
+
+- id: poisot_beyond_2015
+  accessed:
+    - year: 2019
+      month: 12
+      day: 9
+  author:
+    - family: Poisot
+      given: Timothée
+    - family: Stouffer
+      given: Daniel B.
+    - family: Gravel
+      given: Dominique
+  container-title: Oikos
+  DOI: 10.1111/oik.01719
+  ISSN: 00301299
+  issue: '3'
+  issued:
+    - year: 2015
+      month: 3
+  language: en
+  page: 243-251
+  source: Crossref
+  title: >-
+    Beyond species: why ecological interaction networks vary through space and
+    time
+  title-short: Beyond species
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/oik.01719'
+  volume: '124'
+
+- id: ponisio_opportunistic_2017
+  abstract: >-
+    Species and interactions are being lost at alarming rates and it is
+    imperative to understand how communities assemble if we have to prevent
+    their collapse and restore lost interactions. Using an 8-year dataset
+    comprising nearly 20 000 pollinator visitation records, we explore the
+    assembly of plant–pollinator communities at native plant restoration sites
+    in an agricultural landscape. We ﬁnd that species occupy highly dynamic
+    network positions through time, causing the assembly process to be
+    punctuated by major network reorganisations. The most persistent pollinator
+    species are also the most variable in their network positions, contrary to
+    what preferential attachment –the most widely studied theory of ecological
+    network assembly – predicts. Instead, we suggest assembly occurs via an
+    opportunistic attachment process. Our results contribute to our
+    understanding of how communities assembly and how species interactions
+    change through time while helping to inform efforts to reassemble robust
+    communities.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 16
+  author:
+    - family: Ponisio
+      given: Lauren C.
+    - family: Gaiarsa
+      given: Marilia P.
+    - family: Kremen
+      given: Claire
+  container-title: Ecology Letters
+  container-title-short: Ecol Lett
+  DOI: 10.1111/ele.12821
+  editor:
+    - family: Gravel
+      given: Dominique
+  ISSN: 1461023X
+  issue: '10'
+  issued:
+    - year: 2017
+      month: 10
+  language: en
+  page: 1261-1272
+  source: DOI.org (Crossref)
+  title: Opportunistic attachment assembles plant-pollinator networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ele.12821'
+  volume: '20'
+
+- id: popovic_general_2018
+  abstract: >-
+    We propose an algorithm that generalizes to discrete data any given
+    covariance modeling algorithm originally intended for Gaussian responses,
+    via a Gaussian copula approach. Covariance modeling is a powerful tool for
+    extracting meaning from multivariate data, and fast algorithms for Gaussian
+    data, such as factor analysis and Gaussian graphical models, are widely
+    available. Our algorithm makes these tools generally available to analysts
+    of discrete data and can combine any likelihood-based covariance modeling
+    method for Gaussian data with any set of discrete marginal distributions.
+    Previously, tools for discrete data were generally specific to one family of
+    distributions or covariance modeling paradigm, or otherwise did not exist.
+    Our algorithm is more flexible than alternate methods, takes advantage of
+    existing fast algorithms for Gaussian data, and simulations suggest that it
+    outperforms competing graphical modeling and factor analysis procedures for
+    count and binomial data. We additionally show that in a Gaussian copula
+    graphical model with discrete margins, conditional independence
+    relationships in the latent Gaussian variables are inherited by the discrete
+    observations. Our method is illustrated with a graphical model and factor
+    analysis on an overdispersed ecological count dataset of species abundances.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 8
+  author:
+    - family: Popovic
+      given: Gordana C.
+    - family: Hui
+      given: Francis K.C.
+    - family: Warton
+      given: David I.
+  container-title: Journal of Multivariate Analysis
+  DOI: 10.1016/j.jmva.2017.12.002
+  ISSN: 0047259X
+  issued:
+    - year: 2018
+      month: 5
+  language: en
+  page: 86-100
+  source: Crossref
+  title: A general algorithm for covariance modeling of discrete data
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0047259X17307522'
+  volume: '165'
+
+- id: rabeling_seasonal_2019
+  abstract: >-
+    Seasonal variation in the availability of floral hosts or pollinators is a
+    key factor influencing diversity in plant-pollinator communities. In
+    seasonally dry Neotropical habitats, where month-long periods of extreme
+    drought are followed by a long rainy season, flowering is often synchronized
+    with the beginning of precipitation, when environmental conditions are most
+    beneficial for plant reproduction. In the Brazilian Cerrado, a seasonally
+    dry ecosystem considered one of the world’s biodiversity hotspots for
+    angiosperms, plants with shallow root systems flower predominantly during
+    the rainy season. Foraging activity in social bees however, the major
+    pollinators in this biome, is not restricted to any particular season
+    because a constant supply of resources is necessary to sustain their
+    perennial colonies. Despite the Cerrado’s importance as a center of plant
+    diversity, the influence of its extreme cycles of drought and precipitation
+    on the dynamics and stability of plant-pollinator communities is not well
+    understood. We sampled plant-pollinator interactions of a Cerrado community
+    weekly for one year and used network analyses to characterize intra-annual
+    seasonal variation in community structure. We also compared seasonal
+    differences in community robustness to species loss by simulating
+    extinctions of plants and pollinators. We find that the community shrinks
+    significantly in size during the dry season, becoming more vulnerable to
+    disturbance due to the smaller pool of floral hosts available to pollinators
+    during this period. Major changes in plant species composition but not in
+    pollinators has led to high levels of turnover in plant-pollinator
+    associations across seasons, indicated by in interaction dissimilarity (<3%
+    of shared interactions). Aseasonal pollinators, which mainly include social
+    bees and some solitary specialized bees, functioned as keystone species,
+    maintaining robustness during periods of drastic changes in climatic
+    conditions.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Rabeling
+      given: Simone Cappellari
+    - family: Lim
+      given: Jia Le
+    - family: Tidon
+      given: Rosana
+    - family: Neff
+      given: John L.
+    - family: Simpson
+      given: Beryl B.
+    - family: Pawar
+      given: Samraat
+  container-title: PLOS ONE
+  DOI: 10.1371/journal.pone.0224997
+  editor:
+    - family: Nascimento
+      given: Fabio S.
+  ISSN: 1932-6203
+  issue: '12'
+  issued:
+    - year: 2019
+      month: 12
+      day: 2
+  language: en
+  page: e0224997
+  source: Crossref
+  title: >-
+    Seasonal variation of a plant-pollinator network in the Brazilian Cerrado:
+    Implications for community structure and robustness
+  title-short: Seasonal variation of a plant-pollinator network in the Brazilian Cerrado
+  type: article-journal
+  URL: 'https://dx.plos.org/10.1371/journal.pone.0224997'
+  volume: '14'
+
+- id: raimundo_adaptive_2018
+  accessed:
+    - year: 2019
+      month: 11
+      day: 16
+  author:
+    - family: Raimundo
+      given: Rafael L.G.
+    - family: Guimarães
+      given: Paulo R.
+    - family: Evans
+      given: Darren M.
+  container-title: Trends in Ecology & Evolution
+  container-title-short: Trends in Ecology & Evolution
+  DOI: 10.1016/j.tree.2018.06.002
+  ISSN: 01695347
+  issue: '9'
+  issued:
+    - year: 2018
+      month: 9
+  language: en
+  page: 664-675
+  source: DOI.org (Crossref)
+  title: Adaptive Networks for Restoration Ecology
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0169534718301393'
+  volume: '33'
+
+- id: sagarin_moving_2006
+  accessed:
+    - year: 2019
+      month: 9
+      day: 12
+  author:
+    - family: Sagarin
+      given: Raphael D.
+    - family: Gaines
+      given: Steven D.
+    - family: Gaylord
+      given: Brian
+  container-title: Trends in Ecology & Evolution
+  DOI: 10.1016/j.tree.2006.06.008
+  ISSN: 01695347
+  issue: '9'
+  issued:
+    - year: 2006
+      month: 9
+  language: en
+  page: 524-530
+  source: Crossref
+  title: >-
+    Moving beyond assumptions to understand abundance distributions across the
+    ranges of species
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0169534706001960'
+  volume: '21'
+
+- id: schleuning_specialization_2012
+  abstract: >-
+    Species-rich tropical communities are expected to be more specialized than
+    their temperate counterparts [1–3]. Several studies have reported increasing
+    biotic specialization toward the tropics [4–7], whereas others have not
+    found latitudinal trends once accounting for sampling bias [8, 9] or
+    differences in plant diversity [10, 11]. Thus, the direction of the
+    latitudinal specialization gradient remains contentious. With an
+    unprecedented global data set, we investigated how biotic specialization
+    between plants and animal pollinators or seed dispersers is associated with
+    latitude, past and contemporary climate, and plant diversity. We show that
+    in contrast to expectation, biotic specialization of mutualistic networks is
+    signiﬁcantly lower at tropical than at temperate latitudes. Specialization
+    was more closely related to contemporary climate than to past climate
+    stability, suggesting that current conditions have a stronger effect on
+    biotic specialization than historical community stability. Biotic
+    specialization decreased with increasing local and regional plant diversity.
+    This suggests that high specialization of mutualistic interactions is a
+    response of pollinators and seed dispersers to low plant diversity. This
+    could explain why the latitudinal specialization gradient is reversed
+    relative to the latitudinal diversity gradient. Low mutualistic network
+    specialization in the tropics suggests higher tolerance against extinctions
+    in tropical than in temperate communities.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Schleuning
+      given: Matthias
+    - family: Fründ
+      given: Jochen
+    - family: Klein
+      given: Alexandra-Maria
+    - family: Abrahamczyk
+      given: Stefan
+    - family: Alarcón
+      given: Ruben
+    - family: Albrecht
+      given: Matthias
+    - family: Andersson
+      given: "Georg\_K.S."
+    - family: Bazarian
+      given: Simone
+    - family: Böhning-Gaese
+      given: Katrin
+    - family: Bommarco
+      given: Riccardo
+    - family: Dalsgaard
+      given: Bo
+    - family: Dehling
+      given: "D.\_Matthias"
+    - family: Gotlieb
+      given: Ariella
+    - family: Hagen
+      given: Melanie
+    - family: Hickler
+      given: Thomas
+    - family: Holzschuh
+      given: Andrea
+    - family: Kaiser-Bunbury
+      given: "Christopher\_N."
+    - family: Kreft
+      given: Holger
+    - family: Morris
+      given: "Rebecca\_J."
+    - family: Sandel
+      given: Brody
+    - family: Sutherland
+      given: "William\_J."
+    - family: Svenning
+      given: Jens-Christian
+    - family: Tscharntke
+      given: Teja
+    - family: Watts
+      given: Stella
+    - family: Weiner
+      given: "Christiane\_N."
+    - family: Werner
+      given: Michael
+    - family: Williams
+      given: "Neal\_M."
+    - family: Winqvist
+      given: Camilla
+    - family: Dormann
+      given: "Carsten\_F."
+    - family: Blüthgen
+      given: Nico
+  container-title: Current Biology
+  DOI: 10.1016/j.cub.2012.08.015
+  ISSN: 09609822
+  issue: '20'
+  issued:
+    - year: 2012
+      month: 10
+  language: en
+  page: 1925-1931
+  source: Crossref
+  title: >-
+    Specialization of Mutualistic Interaction Networks Decreases toward Tropical
+    Latitudes
+  type: article-journal
+  URL: 'https://linkinghub.elsevier.com/retrieve/pii/S0960982212009438'
+  volume: '22'
+
+- id: soberon_grinnellian_2007
+  abstract: >-
+    In the recent past, availability of large data sets of species presences has
+    increased by orders of magnitude. This, together with developments in
+    geographical information systems and statistical methods, has enabled
+    scientists to calculate, for thousands of species, the environmental
+    conditions of their distributional areas. The proﬁles thus obtained are
+    obviously related to niche concepts in the Grinnell tradition, and separated
+    from those in EltonÕs tradition. I argue that it is useful to deﬁne
+    Grinnellian and Eltonian niches on the basis of the types of variables used
+    to calculate them, the natural spatial scale at which they can be measured,
+    and the dispersal of the individuals over the environment. I use set theory
+    notation and analogies derived from population ecology theory to obtain
+    formal deﬁnitions of areas of distribution and several types of niches. This
+    brings clarity to several practical and fundamental questions in
+    macroecology and biogeography.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Soberón
+      given: Jorge
+  container-title: Ecology Letters
+  DOI: 10.1111/j.1461-0248.2007.01107.x
+  ISSN: '1461-023X, 1461-0248'
+  issue: '12'
+  issued:
+    - year: 2007
+      month: 12
+  language: en
+  page: 1115-1123
+  source: Crossref
+  title: Grinnellian and Eltonian niches and geographic distributions of species
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1461-0248.2007.01107.x'
+  volume: '10'
+
+- id: soberon_niches_2009
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Soberon
+      given: J.
+    - family: Nakamura
+      given: M.
+  container-title: Proceedings of the National Academy of Sciences
+  DOI: 10.1073/pnas.0901637106
+  ISSN: '0027-8424, 1091-6490'
+  issue: Supplement_2
+  issued:
+    - year: 2009
+      month: 11
+      day: 17
+  language: en
+  page: 19644-19650
+  source: Crossref
+  title: 'Niches and distributional areas: Concepts, methods, and assumptions'
+  title-short: Niches and distributional areas
+  type: article-journal
+  URL: 'http://www.pnas.org/cgi/doi/10.1073/pnas.0901637106'
+  volume: '106'
+
+- id: staniczenko_linking_2017
+  abstract: >-
+    Macroecological models for predicting species distributions usually only
+    include abiotic environmental conditions as explanatory variables, despite
+    knowledge from community ecology that all species are linked to other
+    species through biotic interactions. This disconnect is largely due to the
+    different spatial scales considered by the two sub-disciplines:
+    macroecologists study patterns at large extents and coarse resolutions,
+    while community ecologists focus on small extents and ﬁne resolutions. A
+    general framework for including biotic interactions in macroecological
+    models would help bridge this divide, as it would allow for rigorous testing
+    of the role that biotic interactions play in determining species ranges.
+    Here, we present an approach that combines species distribution models with
+    Bayesian networks, which enables the direct and indirect effects of biotic
+    interactions to be modelled as propagating conditional dependencies among
+    species’ presences. We show that including biotic interactions in
+    distribution models for species from a California grassland community
+    results in better range predictions across the western USA. This new
+    approach will be important for improving estimates of species distributions
+    and their dynamics under environmental change.
+  accessed:
+    - year: 2018
+      month: 10
+      day: 4
+  author:
+    - family: Staniczenko
+      given: Phillip P.A.
+    - family: Sivasubramaniam
+      given: Prabu
+    - family: Suttle
+      given: K. Blake
+    - family: Pearson
+      given: Richard G.
+  container-title: Ecology Letters
+  DOI: 10.1111/ele.12770
+  editor:
+    - family: Lawler
+      given: Joshua
+  ISSN: 1461023X
+  issue: '6'
+  issued:
+    - year: 2017
+      month: 6
+  language: en
+  page: 693-707
+  source: Crossref
+  title: >-
+    Linking macroecology and community ecology: refining predictions of species
+    distributions using biotic interaction networks
+  title-short: Linking macroecology and community ecology
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ele.12770'
+  volume: '20'
+
+- id: thebault_stability_2010
+  accessed:
+    - year: 2019
+      month: 10
+      day: 8
+  author:
+    - family: Thebault
+      given: E.
+    - family: Fontaine
+      given: Colin
+  container-title: Science
+  DOI: 10.1126/science.1188321
+  ISSN: '0036-8075, 1095-9203'
+  issue: '5993'
+  issued:
+    - year: 2010
+      month: 8
+      day: 13
+  language: en
+  page: 853-856
+  source: Crossref
+  title: >-
+    Stability of Ecological Communities and the Architecture of Mutualistic and
+    Trophic Networks
+  type: article-journal
+  URL: 'http://www.sciencemag.org/cgi/doi/10.1126/science.1188321'
+  volume: '329'
+
+- id: title_envirem_2017
+  accessed:
+    - year: 2019
+      month: 9
+      day: 9
+  author:
+    - family: Title
+      given: Pascal O.
+    - family: Bemmels
+      given: Jordan B.
+  DOI: 10.7302/Z2BR8Q40
+  issued:
+    - year: 2017
+  publisher: University of Michigan
+  source: DataCite
+  title: 'ENVIREM: ENVIronmental Rasters for Ecological Modeling version 1.0'
+  title-short: ENVIREM
+  type: dataset
+  URL: 'http://deepblue.lib.umich.edu/data/concern/generic_works/gt54kn05f'
+
+- id: title_envirem_2018
+  accessed:
+    - year: 2019
+      month: 6
+      day: 19
+  author:
+    - family: Title
+      given: Pascal O.
+    - family: Bemmels
+      given: Jordan B.
+  container-title: Ecography
+  DOI: 10.1111/ecog.02880
+  ISSN: 09067590
+  issue: '2'
+  issued:
+    - year: 2018
+      month: 2
+  language: en
+  page: 291-307
+  source: Crossref
+  title: >-
+    ENVIREM: an expanded set of bioclimatic and topographic variables increases
+    flexibility and improves performance of ecological niche modeling
+  title-short: ENVIREM
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ecog.02880'
+  volume: '41'
+
+- id: torres_using_2018
+  abstract: >-
+    Aim: Identifying suitable areas for invasive species establishment is of
+    critical importance for their early detection and rapid eradication.
+    However, our ability to detect suitable areas is impeded by the tendency of
+    species to shift their niche postinvasion. In this study, we (a) investigate
+    the frequency of niche shift within invasive freshwater invertebrates and
+    (b) use niche conservatism information to prioritize potential hotspots of
+    invasion for non-n­ ative freshwater invertebrates in New Zealand.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 23
+  author:
+    - family: Torres
+      given: Ursula
+    - family: Godsoe
+      given: William
+    - family: Buckley
+      given: Hannah L.
+    - family: Parry
+      given: Matthew
+    - family: Lustig
+      given: Audrey
+    - family: Worner
+      given: Susan P.
+  container-title: Diversity and Distributions
+  DOI: 10.1111/ddi.12818
+  editor:
+    - family: Leung
+      given: Brian
+  ISSN: '13669516'
+  issue: '12'
+  issued:
+    - year: 2018
+      month: 12
+  language: en
+  page: 1802-1815
+  source: Crossref
+  title: >-
+    Using niche conservatism information to prioritize hotspots of invasion by
+    non-native freshwater invertebrates in New Zealand
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ddi.12818'
+  volume: '24'
+
+- id: trojelsgaard_geographical_2015
+  accessed:
+    - year: 2020
+      month: 3
+      day: 29
+  author:
+    - family: Trøjelsgaard
+      given: Kristian
+    - family: Jordano
+      given: Pedro
+    - family: Carstensen
+      given: Daniel W.
+    - family: Olesen
+      given: Jens M.
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  DOI: 10.1098/rspb.2014.2925
+  ISSN: '0962-8452, 1471-2954'
+  issue: '1802'
+  issued:
+    - year: 2015
+      month: 3
+      day: 7
+  language: en
+  page: '20142925'
+  source: Crossref
+  title: >-
+    Geographical variation in mutualistic networks: similarity, turnover and
+    partner fidelity
+  title-short: Geographical variation in mutualistic networks
+  type: article-journal
+  URL: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2014.2925'
+  volume: '282'
+
+- id: tur_evaluating_2016
+  abstract: >-
+    Information about the relative importance of competitive or facilitative
+    pollinator-mediated interactions in a multi-species context is limited. We
+    studied interspeciﬁc pollen transfer (IPT) networks to evaluate quantity and
+    quality effects of pollinator sharing among plant species on three
+    high-Andean communities at 1600, 1800 and 2000 m a.s.l. To estimate the sign
+    of the effects (positive, neutral or negative), the relation between
+    conspeciﬁc and heterospeciﬁc pollen deposited on stigmas was analysed with
+    GLMMs. Network analyses showed that communities were characterised by the
+    presence of pollen hub-donors and receptors. We inferred that facilitative
+    and neutral pollinator-mediated interactions among plants prevailed over
+    competition. Thus, the beneﬁts from pollinator sharing seem to outweigh the
+    costs (i.e. heterospeciﬁc deposition and conspeciﬁc pollen loss). The
+    largest proportion of facilitated species was found at the highest elevation
+    community, suggesting that under unfavourable conditions for the pollination
+    service and at lower plant densities facilitation can be more common.
+  accessed:
+    - year: 2018
+      month: 11
+      day: 10
+  author:
+    - family: Tur
+      given: C.
+    - family: Sáez
+      given: A.
+    - family: Traveset
+      given: Anna
+    - family: Aizen
+      given: Marcelo A.
+  container-title: Ecology Letters
+  DOI: 10.1111/ele.12594
+  editor:
+    - family: Gómez
+      given: José María
+  ISSN: 1461023X
+  issue: '5'
+  issued:
+    - year: 2016
+      month: 5
+  language: en
+  page: 576-586
+  source: Crossref
+  title: >-
+    Evaluating the effects of pollinator-mediated interactions using pollen
+    transfer networks: evidence of widespread facilitation in south Andean plant
+    communities
+  title-short: >-
+    Evaluating the effects of pollinator-mediated interactions using pollen
+    transfer networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ele.12594'
+  volume: '19'
+
+- id: tylianakis_ecological_2017
+  abstract: >-
+    Ecological networks have a long history in ecology, and a recent increase in
+    network analyses across environmental gradients has revealed important
+    changes in their structure, dynamics, and functioning. These changes can be
+    broadly grouped according to three nonexclusive mechanisms: (a) changes in
+    the species composition of the networks (driven by interaction patterns of
+    invaders, nonrandom extinction of species according to their traits, or
+    differences among species in population responses across gradients); (b)
+    changes that alter interaction frequencies via changes in search efﬁciency
+    (driven by altered habitat structure or metabolic rates) or changes in
+    spatial and temporal overlap; and (c) changes to coevolutionary processes
+    and patterns. Taking spatial and temporal processes into account can further
+    elucidate network variation and improve predictions of network responses to
+    environmental change. Emerging evidence links network structure to ecosystem
+    functioning; however, scaling up to metanetworks or multilayer networks may
+    modify interpretations of network structure, stability, and functioning.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 25
+  author:
+    - family: Tylianakis
+      given: Jason M.
+    - family: Morris
+      given: Rebecca J.
+  container-title: 'Annual Review of Ecology, Evolution, and Systematics'
+  DOI: 10.1146/annurev-ecolsys-110316-022821
+  ISSN: '1543-592X, 1545-2069'
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 11
+      day: 2
+  language: en
+  page: 25-48
+  source: Crossref
+  title: Ecological Networks Across Environmental Gradients
+  type: article-journal
+  URL: 'http://www.annualreviews.org/doi/10.1146/annurev-ecolsys-110316-022821'
+  volume: '48'
+
+- id: tylianakis_global_2008
+  abstract: >-
+    The main drivers of global environmental change (CO2 enrichment, nitrogen
+    deposition, climate, biotic invasions and land use) cause extinctions and
+    alter species distributions, and recent evidence shows that they exert
+    pervasive impacts on various antagonistic and mutualistic interactions among
+    species. In this review, we synthesize data from 688 published studies to
+    show that these drivers often alter competitive interactions among plants
+    and animals, exert multitrophic effects on the decomposer food web, increase
+    intensity of pathogen infection, weaken mutualisms involving plants, and
+    enhance herbivory while having variable effects on predation. A recurrent
+    ﬁnding is that there is substantial variability among studies in both the
+    magnitude and direction of effects of any given GEC driver on any given type
+    of biotic interaction. Further, we show that higher order effects among
+    multiple drivers acting simultaneously create challenges in predicting
+    future responses to global environmental change, and that extrapolating
+    these complex impacts across entire networks of species interactions yields
+    unanticipated effects on ecosystems. Finally, we conclude that in order to
+    reliably predict the effects of GEC on community and ecosystem processes,
+    the greatest single challenge will be to determine how biotic and abiotic
+    context alters the direction and magnitude of GEC effects on biotic
+    interactions.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 26
+  author:
+    - family: Tylianakis
+      given: Jason M.
+    - family: Didham
+      given: Raphael K.
+    - family: Bascompte
+      given: Jordi
+    - family: Wardle
+      given: David A.
+  container-title: Ecology Letters
+  DOI: 10.1111/j.1461-0248.2008.01250.x
+  ISSN: '1461023X, 14610248'
+  issue: '12'
+  issued:
+    - year: 2008
+      month: 12
+  language: en
+  page: 1351-1363
+  source: Crossref
+  title: Global change and species interactions in terrestrial ecosystems
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1461-0248.2008.01250.x'
+  volume: '11'
+
+- id: tylianakis_habitat_2007
+  accessed:
+    - year: 2019
+      month: 11
+      day: 16
+  author:
+    - family: Tylianakis
+      given: Jason M.
+    - family: Tscharntke
+      given: Teja
+    - family: Lewis
+      given: Owen T.
+  container-title: Nature
+  container-title-short: Nature
+  DOI: 10.1038/nature05429
+  ISSN: '0028-0836, 1476-4687'
+  issue: '7124'
+  issued:
+    - year: 2007
+      month: 1
+  language: en
+  page: 202-205
+  source: DOI.org (Crossref)
+  title: >-
+    Habitat modification alters the structure of tropical host–parasitoid food
+    webs
+  type: article-journal
+  URL: 'http://www.nature.com/articles/nature05429'
+  volume: '445'
+
+- id: tylianakis_resource_2008
+  accessed:
+    - year: 2019
+      month: 7
+      day: 26
+  author:
+    - family: Tylianakis
+      given: Jason M.
+    - family: Rand
+      given: Tatyana A
+    - family: Kahmen
+      given: Ansgar
+    - family: Klein
+      given: Alexandra-Maria
+    - family: Buchmann
+      given: Nina
+    - family: Perner
+      given: Jörg
+    - family: Tscharntke
+      given: Teja
+  container-title: PLoS Biology
+  DOI: 10.1371/journal.pbio.0060122
+  editor:
+    - family: Loreau
+      given: Michel
+  ISSN: 1545-7885
+  issue: '5'
+  issued:
+    - year: 2008
+      month: 5
+      day: 20
+  language: en
+  page: e122
+  source: Crossref
+  title: >-
+    Resource Heterogeneity Moderates the Biodiversity-Function Relationship in
+    Real World Ecosystems
+  type: article-journal
+  URL: 'https://dx.plos.org/10.1371/journal.pbio.0060122'
+  volume: '6'
+
+- id: vazquez_evaluating_2009
+  abstract: >-
+    The structure of mutualistic networks is likely to result from the
+    simultaneous inﬂuence of neutrality and the constraints imposed by
+    complementarity in species phenotypes, phenologies, spatial distributions,
+    phylogenetic relationships, and sampling artifacts. We develop a conceptual
+    and methodological framework to evaluate the relative contributions of these
+    potential determinants. Applying this approach to the analysis of a
+    plant–pollinator network, we show that information on relative abundance and
+    phenology sufﬁces to predict several aggregate network properties
+    (connectance, nestedness, interaction evenness, and interaction asymmetry).
+    However, such information falls short of predicting the detailed network
+    structure (the frequency of pairwise interactions), leaving a large amount
+    of variation unexplained. Taken together, our results suggest that both
+    relative species abundance and complementarity in spatiotemporal
+    distribution contribute substantially to generate observed network patters,
+    but that this information is by no means sufﬁcient to predict the occurrence
+    and frequency of pairwise interactions. Future studies could use our
+    methodological framework to evaluate the generality of our ﬁndings in a
+    representative sample of study systems with contrasting ecological
+    conditions.
+  accessed:
+    - year: 2020
+      month: 4
+      day: 11
+  author:
+    - family: Vázquez
+      given: Diego P.
+    - family: Chacoff
+      given: Natacha P.
+    - family: Cagnolo
+      given: Luciano
+  container-title: Ecology
+  container-title-short: Ecology
+  DOI: 10.1890/08-1837.1
+  ISSN: 0012-9658
+  issue: '8'
+  issued:
+    - year: 2009
+      month: 8
+  language: en
+  page: 2039-2046
+  source: DOI.org (Crossref)
+  title: >-
+    Evaluating multiple determinants of the structure of plant–animal
+    mutualistic networks
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1890/08-1837.1'
+  volume: '90'
+
+- id: vazquez_uniting_2009
+  accessed:
+    - year: 2020
+      month: 4
+      day: 11
+  author:
+    - family: Vázquez
+      given: Diego P.
+    - family: Blüthgen
+      given: Nico
+    - family: Cagnolo
+      given: Luciano
+    - family: Chacoff
+      given: Natacha P.
+  container-title: Annals of Botany
+  DOI: 10.1093/aob/mcp057
+  ISSN: '1095-8290, 0305-7364'
+  issue: '9'
+  issued:
+    - year: 2009
+      month: 6
+  language: en
+  page: 1445-1457
+  source: DOI.org (Crossref)
+  title: 'Uniting pattern and process in plant–animal mutualistic networks: a review'
+  title-short: Uniting pattern and process in plant–animal mutualistic networks
+  type: article-journal
+  URL: 'https://academic.oup.com/aob/article-lookup/doi/10.1093/aob/mcp057'
+  volume: '103'
+
+- id: vizentin-bugoni_processes_2014
+  accessed:
+    - year: 2019
+      month: 9
+      day: 14
+  author:
+    - family: Vizentin-Bugoni
+      given: Jeferson
+    - family: Maruyama
+      given: Pietro Kiyoshi
+    - family: Sazima
+      given: Marlies
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  container-title-short: Proc. R. Soc. B
+  DOI: 10.1098/rspb.2013.2397
+  ISSN: '0962-8452, 1471-2954'
+  issue: '1780'
+  issued:
+    - year: 2014
+      month: 4
+      day: 7
+  language: en
+  page: '20132397'
+  source: DOI.org (Crossref)
+  title: >-
+    Processes entangling interactions in communities: forbidden links are more
+    important than abundance in a hummingbird–plant network
+  title-short: Processes entangling interactions in communities
+  type: article-journal
+  URL: 'https://royalsocietypublishing.org/doi/10.1098/rspb.2013.2397'
+  volume: '281'
+
+- id: vucic-pestic_warming_2011
+  abstract: >-
+    Predictions on the consequences of the rapidly increasing atmospheric CO2
+    levels and associated climate warming for population dynamics, ecological
+    community structure and ecosystem functioning depend on mechanistic
+    energetic models of temperature effects on populations and their
+    interactions. However, such mechanistic approaches combining warming effects
+    on metabolic (energy loss of organisms) and feeding rates (energy gain by
+    organisms) remain a key, yet elusive, goal. Aiming to ﬁll this void, we
+    studied the metabolic rates and functional responses of three differently
+    sized, predatory ground beetles on one mobile and one more resident prey
+    species across a temperature gradient (5, 10, 15, 20, 25 and 30 1C).
+    Synthesizing metabolic and functional-response theory, we develop novel
+    mechanistic predictions how predator–prey interaction strengths (i.e.,
+    functional responses) should respond to warming. Corroborating prior theory,
+    warming caused strong increases in metabolism and decreases in handling
+    time. Consistent with our novel model, we found increases in predator attack
+    rates on a mobile prey, whereas attack rates on a mostly resident prey
+    remained constant across the temperature gradient. Together, these results
+    provide critically important information that environmental warming
+    generally increases the direct short-term per capita interaction strengths
+    between predators and their prey as described by functional-response models.
+    Nevertheless, the several fold stronger increase in metabolism with warming
+    caused decreases in energetic efﬁciencies (ratio of per capita feeding rate
+    to metabolic rate) for all predator–prey interactions. This implies that
+    warming of natural ecosystems may dampen predator–prey oscillations thus
+    stabilizing their dynamics. The severe long-term implications; however,
+    include predator starvation due to energetic inefﬁciency despite abundant
+    resources.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 2
+  author:
+    - family: Vucic-Pestic
+      given: Olivera
+    - family: Ehnes
+      given: Roswitha B.
+    - family: Rall
+      given: Björn C.
+    - family: Brose
+      given: Ulrich
+  container-title: Global Change Biology
+  DOI: 10.1111/j.1365-2486.2010.02329.x
+  ISSN: '13541013'
+  issue: '3'
+  issued:
+    - year: 2011
+      month: 3
+  language: en
+  page: 1301-1310
+  source: Crossref
+  title: >-
+    Warming up the system: higher predator feeding rates but lower energetic
+    efficiencies: warming and functional responses
+  title-short: Warming up the system
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/j.1365-2486.2010.02329.x'
+  volume: '17'
+
+- id: zizka_coordinatecleaner_2019
+  accessed:
+    - year: 2019
+      month: 6
+      day: 27
+  author:
+    - family: Zizka
+      given: Alexander
+    - family: Silvestro
+      given: Daniele
+    - family: Andermann
+      given: Tobias
+    - family: Azevedo
+      given: Josué
+    - family: Duarte Ritter
+      given: Camila
+    - family: Edler
+      given: Daniel
+    - family: Farooq
+      given: Harith
+    - family: Herdean
+      given: Andrei
+    - family: Ariza
+      given: María
+    - family: Scharn
+      given: Ruud
+    - family: Svantesson
+      given: Sten
+    - family: Wengström
+      given: Niklas
+    - family: Zizka
+      given: Vera
+    - family: Antonelli
+      given: Alexandre
+  container-title: Methods in Ecology and Evolution
+  container-title-short: Methods Ecol Evol
+  DOI: 10.1111/2041-210X.13152
+  editor:
+    - family: Quental
+      given: Tiago
+  ISSN: '2041-210X, 2041-210X'
+  issue: '5'
+  issued:
+    - year: 2019
+      month: 5
+  language: en
+  page: 744-751
+  source: DOI.org (Crossref)
+  title: >-
+    CoordinateCleaner: Standardized cleaning of occurrence records from
+    biological collection databases
+  title-short: ''
+  type: article-journal
+  URL: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13152'
+  volume: '10'
+
+- id: zurell_joint_2018
+  accessed:
+    - year: 2018
+      month: 10
+      day: 4
+  author:
+    - family: Zurell
+      given: Damaris
+    - family: Pollock
+      given: Laura J.
+    - family: Thuiller
+      given: Wilfried
+  container-title: Ecography
+  DOI: 10.1111/ecog.03315
+  ISSN: 09067590
+  issued:
+    - year: 2018
+      month: 4
+  language: en
+  source: Crossref
+  title: >-
+    Do joint species distribution models reliably detect interspecific
+    interactions from co-occurrence data in homogenous environments?
+  type: article-journal
+  URL: 'http://doi.wiley.com/10.1111/ecog.03315'
+...
